@@ -1,0 +1,5247 @@
+---
+title: "Baril Family Cookbook"
+author:
+- Written by Cole Baril
+- Edited by Denis Baril
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    latex_engine: xelatex
+  html_document:
+    df_print: paged
+  word_document: default
+subtitle: A collection of timeless recipes from family and friends
+header-includes: \usepackage{titling} \pretitle{\begin{center}\LARGE\includegraphics[width=12cm]{title.jpg}\\[\bigskipamount]}
+  \posttitle{\end{center}} \usepackage{geometry} \geometry{top=0.75in,left=1in,bottom=0.75in,right=1in}
+  \usepackage{sectsty} \sectionfont{\centering} \chapterfont{\centering} \subsectionfont{\centering
+  \emph} \usepackage{multicol}
+toc: yes
+number_sections: yes
+documentclass: report
+papersize: a4
+fontsize: 12pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\pagebreak
+
+# Dedication {.unlisted .unnumbered}
+
+This cookbook is dedicated to Vanessa Lynn Baril who inspired me with her baking and cooking from a young age. I grew up with a peanut allergy in the late 1990s and early 2000s where there was little in the way of "peanut free" foods. My lovely mother Vanessa was constantly hard at work in the kitchen making home-cooked meals, baking and desserts for me, including making nut free cakes for events and birthdays. She was always inventing ways to make peanut free versions of foods so I would not feel left out at events and birthday parties. Vanessa also worked hard to educate herself friends, family members and educators about my peanut allergy and how to keep me safe.
+
+\pagebreak
+
+# Salads and Dressings
+
+![](salad.png)
+
+\pagebreak
+
+## Greek Pasta Salad
+
+### Vanessa Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+Dressing:
+
+\begin{multicols}{3}
+
+•   1/3 cup olive oil
+
+•   1/2 cup vinegar
+
+•   2 tsp. sugar
+
+•   1/4 tsp. oregano
+
+•   1/2 tsp. thyme
+
+•   1/2 tsp. basil
+
+•   1/2 tsp. dry mustard
+
+•   Pepper to taste
+
+\end{multicols}
+
+Salad:
+
+\begin{multicols}{2}
+
+•   1 box tri-colored pasta (fusilli)
+
+•   Seeded and chopped cucumber
+
+•   Chopped tomato
+
+•   Chopped red/purple onion
+
+•   Crumbled feta cheese
+
+\end{multicols}
+
+**Methods**
+
+1.  Mix dressing ingredients together.
+2.  Assemble salad
+3.  Add dressing to salad.
+
+> Note: This recipe travels and stores well.
+
+## Pickle Pasta Salad
+
+**Ingredients**
+
+Salad:
+
+\begin{multicols}{3}
+
+•   3 cups dry shell pasta
+
+•   1/3 cup pickles
+
+•   2/3 cup cubed cheese
+
+•   3 Tbsp. onion
+
+•   2 Tbsp. dill
+
+•   1/2 cup pickle juice
+
+\end{multicols}
+
+Dressing:
+
+\begin{multicols}{3}
+
+•   2/3 cup mayo
+
+•   1/3 cup sour cream
+
+•   1/8 tsp. cayenne pepper
+
+•   4 Tbsp. pickle juice
+
+•   Salt
+
+•   Pepper
+
+\end{multicols}
+
+**Methods**
+
+Prepare salad and dressing; combine and toss when ready to serve.
+
+\pagebreak
+
+## Mandarin Salad
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1 head romaine lettuce
+
+•   3 tins orange mandarin
+
+•   1 bag of craisins
+
+•   Poppy seed dressing (Kraft)
+
+\end{multicols}
+
+**Methods**
+
+Combine all ingredients.
+
+## Bean Salad
+
+**Ingredients**
+
+Salad:
+
+\begin{multicols}{2}
+
+•   1 can cut green beans
+
+•   1 can cut yellow beans
+
+•   1 can kidney beans (drained)
+
+•   1/2 to 3/4 can chick peas
+
+•   Purple onion
+
+\end{multicols}
+
+Marinade:
+
+\begin{multicols}{3}
+
+•   1/4 tsp. garlic salt
+
+•   1/4 tsp. pepper
+
+•   1/2 tsp. salt
+
+•   6 Tbsp. white sugar
+
+•   1/2 cup vinegar
+
+•   1/2 cup salad oil
+
+•   1/4 tsp. dry mustard
+
+•   1/2 tsp. paprika
+
+\end{multicols}
+
+**Methods**
+
+1.  Combine beans and onion.
+2.  Mix marinade ingredients.
+3.  Pour marinade over beans and onion mixture and mix well.
+4.  Marinade for 6 hours and keep in the fridge.
+
+\pagebreak
+
+## Pineapple Cole Slaw
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 3/4 cup mayonnaise 
+
+• 2 Tbsp. sugar
+
+• 2 tsp vinegar
+
+• 1/2 tsp. salt
+
+• 1-2 Tbsp. milk
+
+• 8 cups cabbage, shredded
+
+• 3/4 cup pineapple crushed and drained
+
+• 1½ cups mini marshmallows
+
+\end{multicols}
+
+**Methods**
+
+1. In a large bowl mix cabbage, pineapple, and marshmallows.
+2. In a small bowl mix sugar, salt, mayonnaise, vinegar, and milk.
+3. Add to cabbage mixture and stir well.
+
+## Red Cabbage Coleslaw
+
+### Elva Madison {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 3 cups cabbage
+
+• 1/2 cup green pepper
+
+• 1/3 cup onion, chopped
+
+• 1/2 cup celery, chopped
+
+• 2 Tbsp. sour cream 
+
+• 2 Tbsp. mayonnaise 
+
+• 1/4 tsp. black pepper
+
+• 1/2 tsp. garlic powder
+
+• 1 tsp. lemon juice
+
+\end{multicols}
+
+**Methods**
+
+1. Mix shredded cabbage, green pepper, onion, and celery.
+2. Mix sour cream, black pepper, garlic powder, fresh lemon juice and salt. 
+3. Mix well and let stand for a while for flavours to blend.
+
+## Coleslaw Dressing
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1/4 cup sugar
+
+•   1/4 cup half and half
+
+•   1/4 cup salad dressing
+
+•   1/4 cup vinegar
+
+•   1/4 cup oil
+
+•   Salt
+
+•   Pepper
+
+•   1/2 tsp. celery seed
+
+\end{multicols}
+
+**Methods**
+
+Combine all ingredients and mix well.
+
+\pagebreak
+
+## Orzo Salad
+
+### Deb Friesen {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 1 cup orzo pasta
+
+• 14 oz. pineapple crushed and drained
+
+• 1 can mandarin oranges
+
+• 250 milliliters cool whip
+
+• 1/3 cup sugar
+
+• 1½ tsp. flour
+
+• 1/4 tsp. salt
+
+• 1 egg, beaten
+
+\end{multicols}
+
+**Methods**
+
+1. Boil pasta for about 16-18 min. Rinse well, set aside.
+2. Drain juice from fruits and add sugar, flour, salt and egg.
+3. Cook and thicken. Pour over orzo pasta and refrigerate until sauce is soaked into orzo pasta. Optionally, add raisins or craisins. 
+4. Once cooled and one hour before serving fold in cool whip and fruit.
+
+## Potato Salad
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 6 eggs
+
+• 4½ cups potatoes
+
+• 1/2 cup salad dressing
+
+• 1/2 cup sour cream 
+
+• 1/2 tsp. mustard
+
+• Salt and pepper to taste
+
+• Milk, to thin
+
+\end{multicols}
+
+**Methods**
+
+1. Boil potatoes with peel, boil eggs set aside to cool (prepare the day before if possible).
+2. Peel potatoes and eggs, put eggs through egg slicer both ways. Cut potatoes into small cubes.
+3. Mix salad dressing, sour cream, mustard, salt and pepper. Add milk to thin. Mix together with potatoes and eggs.
+
+> Note: It is best to mix a few hours prior to serving. Optionally, add more dressing if desired.
+
+# Meats
+
+![](meat.png)
+
+\pagebreak
+
+## Sloppy Joes
+
+## Vanessa Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1lb. hamburger
+
+•   Onion
+
+•   Oil for frying
+
+•   Salt
+
+•   Pepper
+
+•   2 Tbsp. flour
+
+•   1¼ cup water
+
+•   3 Tbsp. brown sugar
+
+•   1 tin tomato soup
+
+•   Chili powder
+
+\end{multicols}
+
+**Methods**
+
+Combine ingredients in a large saucepan and cook thoroughly on medium heat.
+
+## Chili
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1½ pound ground beef
+
+•   1-2 large onion
+
+•   2 stalks celery
+
+•   1/2 green pepper
+
+•   2 28 oz. can or 796 ml. diced tomatoes
+
+•   1 tsp. black pepper
+
+•   1 tsp. salt
+
+•   1 tsp. oregano
+
+•   1 tsp. parsley
+
+•   1 tsp. chili powder
+
+•   2-3 bay leaves
+
+•   2 cups mixed vegetables, frozen
+
+•   2 can beans of choice, drained
+
+•   1 Tbsp. brown sugar
+
+•   2 garlic cloves, optional
+
+\end{multicols}
+
+**Methods**
+
+1.  In frying pan brown beef, onions, garlic, celery, and peppers.
+2.  Add tomatoes, black pepper, parsley, oregano, bay leaves, and chili powder. Simmer for a while.
+3.  Add beans, vegetables, and brown sugar. Simmer for 15 - 20 minutes.
+
+\pagebreak
+
+## Hamburger Casserole
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   2 cups Small egg noodles
+
+•   1 lb. ground beef
+
+•   1 Tbsp. cooking oil
+
+•   1 cup chopped onion
+
+•   1/4 tsp. garlic powder
+
+•   2-7 oz. tomato sauce
+
+•   1 tsp. salt
+
+•   1/2 tsp. pepper
+
+•   1 cup sour cream
+
+•   1 cup cottage cheese
+
+•   1 cup shredded mozzarella cheese
+
+\end{multicols}
+
+**Methods**
+
+1.  Prepare noodles as directed on the package. Drain and measure.
+2.  Spread in the bottom of a 1½ quart casserole dish.
+3.  Scramble fry beef in oil until brown; drain and discard fat.
+4.  Add onion, garlic, tomato sauce, salt nd pepper to meat; simmer gently for 15 minutes and pour over noodles in casserole dish.
+5.  Spread sour cream over meat, smoothing level and spoon cottage cheese on top.
+6.  Layer cheese over top to cover completely.
+7.  Bake uncovered in 350°F oven for 30 minutes until bubbly.
+
+> Serves 6-8.
+
+> *When discarding beef fat, pour into container and let solidify then discard in the garbage*.
+
+## Potato and Sausage Casserole
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 6 medium potatoes, peeled and sliced
+
+• 1 lb. farmer sausage, peeled and sliced
+
+• 1 Tbsp. butter
+
+• 1 Tbsp. flour
+
+• 1/4 tsp. salt
+
+• 1/2 cup milk
+
+• 1/2 cup cheddar cheese
+
+• 1 can mushroom soup
+
+• Carrots and/or peas if desired
+
+\end{multicols}
+
+**Methods**
+
+1. Arrange potatoes and farmer sausage in layers in a casserole
+dish.
+2. Melt butter; blend in flour, salt and milk gradually, stirring
+constantly. 
+3. Add cheese and soup. stirring until sauce cooks. Pour 
+over potatoes and sausage.
+
+\pagebreak
+
+## Chicken Parmigiana
+
+### Vanessa Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1/3 cup grated Parmesan cheese
+
+•   1/3 cup fine dry bread crumbs
+
+•   6 chicken breasts boned, skinned and flattened
+
+•   Flour
+
+•   1 egg beaten
+
+•   Butter
+
+•   1 can pizza sauce
+
+•   250g mozzarella cheese
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven to 350°F.
+2.  Combine Parmesan cheese and crumbs.
+3.  Lightly coat chicken with flour and dip in egg; coat with crumb mixture.
+4.  Let stand 10 minutes to dry.
+5.  Heat a small amount of butter in a frying pan and brown chicken a few pieces at a time, adding more butter as needed.
+6.  Drain pan and spread half a can of pizza sauce in bottom of 2 quart shallow casserole dish.
+7.  Place chicken breasts on pizza sauce layer and top with the remaining half can of pizza sauce and mozzarella cheese.
+8.  Bake for 25-30 minutes.
+
+## Swiss Chicken Casserole
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   6 chicken breasts
+
+•   Swiss cheese
+
+•   1 can mushroom soup
+
+•   1/2 can boiling water
+
+•   Fresh mushrooms
+
+•   Stove top chicken stuffing
+
+\end{multicols}
+
+
+**Methods**
+
+1.  Preheat oven to 350°F.
+2.  Add chicken to casserole dish. If desired, but in half lengthwise.
+3.  Add mushroom soup and boiling water.
+4.  Layer with Swiss cheese and add chicken stuffing on top.
+5.  Bake for 45 minutes.
+
+\pagebreak
+
+## Crispy Oven Baked Chicken Tenders
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1½ cups Panko breadcrumbs
+
+•   Oil spray
+
+•   1 egg
+
+•   1 Tbsp. mayonnaise
+
+•   1½ Tbsp. Dijon mustard
+
+•   2 Tbsp. flour
+
+•   1/2 tsp. salt
+
+•   Black pepper
+
+•   1lb. chicken tenderloins (1½ cm thick slices lengthwise)
+
+\end{multicols}
+
+
+**Methods**
+
+1.  Preheat oven to 390°F.
+2.  Spread Panko onto baking tray and spray with oil; bake for 3-5 minutes until golden brown. Transfer to bowl.
+3.  Place a rack on top of a baking tray to make cooking more even.
+4.  Place egg, mayonnaise, Dijon mustard, flour, salt and black pepper in a bowl and mix.
+5.  Add chicken to the batter, then roll in the Panko crumbs. Spray with oil and sprinkle with a touch of salt.
+6.  Bake for 15-20 minutes. Remove from oven and serve immediately.
+
+## Skillet Dinner
+
+### Darlene Derksen {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• Meat (beef or poultry)
+
+• Chopped onion
+
+• Hot peppers
+
+• Sliced garlic
+
+• Chopped tomatoes
+
+• Pasta of your choosing
+
+\end{multicols}
+
+**Methods**
+
+1. Heat skillet.
+2. Brown meat.
+3. Add vegetables. 
+4. Add pasta and just enough water to cover. 
+5. Let simmer. 
+
+\pagebreak
+
+## Pulled Pork
+
+### Tannis Charette {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1 Tbsp. vegetable oil
+
+•   2 onions finely chopped
+
+•   6 cloves garlic minced
+
+•   1 Tbsp. chili powder
+
+•   1 tsp. cracked black peppercorns
+
+•   1 cup tomato-based chili sauce
+
+•   1/4 cup packed brown sugar
+
+•   1/4 cup cider vinegar
+
+•   1 Tbsp. Worcestershire sauce
+
+•   1 Tbsp. liquid smoke
+
+•   1 boneless pork shoulder (3lb.s)
+
+\end{multicols}
+
+**Methods**
+
+1.  In a skillet heat oil and cook onions. Add garlic, chili powder and pepper. Cook 1 minute.
+2.  Add chili sauce, brown sugar, vinegar, Worcestershire sauce and liquid smoke. Bring to boil.
+3.  Add pork shoulder and sauce to a crock pot.
+4.  Cook on low for 10 to 12 hours or high for 6 hours.
+
+## Pulled Pork
+
+### Karen Michta {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 3-4 lb. pork roast
+
+• 2  cups root beer, as desired
+
+• 1/2 cup BBQ sauce
+
+• 1 package onion soup mix
+
+\end{multicols}
+
+**Methods**
+
+1. Spray crock pot with cooking oil.
+2. Combine root beer with 1/2 the BBQ sauce and onion soup mix.
+Rub the pork roast with the sauce. Transfer to crock pot and pour 
+the rest of the sauce over the roast.
+3. Cook in slow cooker until done.
+4. Reserve 2 cups of the sauce from the crock pot set aside.
+5. Take meat out of stock pot and pull apart with 2 big forks. Set aside.
+6. Dilute the other half of the BBQ sauce with the 2 cups drippings from the roast.
+7. Put all back on crock pot and heat.
+
+\pagebreak
+
+## Italian Meatballs
+
+**Ingredients**
+
+Sauce:
+
+\begin{multicols}{3}
+
+•   3/4 cup chopped onions
+
+•   1 clove garlic, minced
+
+•   3 Tbsp. salad oil
+
+•   2 16 oz. cans tomatoes
+
+•   2 6 oz. cans tomato paste
+
+•   1½ tsp. salt
+
+•   1½ tsp. dried oregano leaves
+
+•   1 tsp. sugar
+
+•   1/2 tsp. pepper
+
+•   1 bay leaf
+
+\end{multicols}
+
+Meatballs:
+
+\begin{multicols}{3}
+
+•   4 slices of bread
+
+•   1/2 cup water
+
+•   2 beaten eggs
+
+•   1/4 grated Parmesan
+
+•   2 Tbsp. snipped parsley
+
+•   1 tsp. salt
+
+•   1/4 tsp. oregano
+
+•   1lb. ground beef
+
+\end{multicols}
+
+**Methods**
+
+1.  Cook onion and garlic in salad oil until tender *but not brown* in a pot.
+2.  Stir in tomatoes, tomato paste, 2 cups of water, salt, oregano, sugar, pepper and top with bay leaf.
+3.  Simmer uncovered for 30 minutes.
+4.  Mix all meatball ingredients and form into 24 meatballs. Brown in a saucepan.
+5.  Add browned meatballs to the pot. Cover and simmer for 30 minutes.
+6.  Serve over cooked spaghetti.
+
+## Hamburgers / Meatballs
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   3 lb. ground beef
+
+•   1 package onion soup mix
+
+•   2 eggs
+
+•   3/4 cup oatmeal
+
+•   2 Tbsp. onion flakes
+
+•   1 tsp. pepper
+
+•   1/2 tsp. salt
+
+•   1 cup water, cold
+
+\end{multicols}
+
+**Methods**
+
+1.  Mix together onion soup, eggs, oatmeal, onion flakes, pepper, salt and water. Add to ground beef and mix well.
+2.  Form into meatballs or hamburgers. Brown in frying pan or on cookie sheet in oven at 400°F for about 20 min. or until brown. These are also very good on the BBQ.
+
+\pagebreak
+
+## Hawaiian Meatballs
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   3 lb. ground beef
+
+•   1 package onion soup mix
+
+•   2 eggs
+
+•   3/4 cup oatmeal
+
+•   2 Tbsp. onion flakes
+
+•   1 tsp. pepper
+
+•   1/2 tsp. salt
+
+•   1 cup water, cold
+
+•   2 Tbsp. cornstarch
+
+•   1 cup brown sugar
+
+•   1/4 cup vinegar
+
+•   1 cup ketchup
+
+•   1 cup water
+
+•   1 Tbsp. soy sauce
+
+•   1/2 cup maraschino cherries
+
+•   1 can pineapple chunks, drained
+
+\end{multicols}
+
+**Methods**
+
+1.  Mix together onion soup, eggs, oatmeal, onion flakes, pepper, salt and cold water.
+2.  Add to ground beef and mix well. Form into meatballs. Brown in oven at 400°F about 20 min.
+3.  For sauce combine cornstarch, brown sugar, vinegar, ketchup, water and soy sauce. Cook over medium heat. Add cherries and pineapple.
+4.  Place meatballs in casserole dish and cover with sauce and fruit mixture.
+5.  Bake at 300°F for 30 min.
+
+## Ham and Cheese Ball
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   8 oz. cream cheese
+
+•   2 cans of flakes of ham
+
+•   3 Tbsp. dried chives
+
+•   1/2 tsp. Worcestershire sauce
+
+•   1/4 cup salad dressing (mayonnaise)
+
+•   Parsley, chopped.
+
+\end{multicols}
+
+**Methods**
+
+1.  Mix everything but parsley and refrigerate for 6 hours.
+2.  Roll in chopped parsley flakes.
+
+\pagebreak
+
+## Baked Pork Chops
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   2 large pork chops, 3/4 in bone in.
+
+•   3/4 cup Panko bread crumbs
+
+•   2½ Tbsp. canola oil
+
+•   1½ Tbsp. grated Parmesan
+
+•   1/2 tsp. seasoning salt, (optional)
+
+•   1/4-1/2 tsp. pepper
+
+•   1/4-1/2 tsp. salt
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven to 450°F.
+2.  Combine Panko, oil, Parmesan, and all seasoning in a large resealable plastic bag.
+3.  Place the pork chops in a large bowl and toss to coat with 1 Tbsp. water.
+4.  Place the pork chops in the bag and shake well to coat, pressing the bread crumb mixture firmly into the meat.
+5.  Place the pork chops on a wire rack set on a baking sheet and top evenly on with any remaining breadcrumbs remaining in the bag.
+6.  Bake until the breadcrumbs are dark golden and the internal temperature of the chops registers 165°F. about 30 min. depending on thickness.
+
+\pagebreak
+
+# Soups, Stews and Borscht
+
+![](soup.png)
+
+\pagebreak
+
+## Vegetable & Sausage Soup
+
+### Vanessa Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1lb. Farmer's sausage
+
+•   2 tins green beans
+
+•   1 medium onion
+
+•   4 cups potatoes
+
+•   8 cups sliced carrots
+
+•   1 tin peas
+
+•   1 package summer savory
+
+•   Salt
+
+•   Pepper
+
+•   8 cups of water
+
+\end{multicols}
+
+**Methods**
+
+1.  Add water, sausage and salt to a large pot and boil for 10 minutes.
+2.  Add vegetables and let simmer until tender. *Add peas last.*
+3.  Remove summer savory when done cooking.
+
+## Red Pepper and Potato Soup
+
+### Janelle {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1 red pepper, sliced, frozen then thawed
+
+•   2 handfuls of white onions, diced
+
+•   1 huge clove of garlic
+
+•   2 carrots, sliced
+
+•   1 potato, peeled and cubed
+
+•   Chicken stock powder
+
+•   6-8 cups water
+
+•   Oil for frying
+
+•   Cayenne pepper
+
+•   Pepper
+
+•   Basil
+
+\end{multicols}
+
+> No salt is used because stocks are usually high in sodium.
+
+**Methods**
+
+1.  Freeze red peppers, thaw and then peel.
+2.  Add oil, onions and garlic to a pot; fry for 3 minutes.
+3.  Add carrots, red peppers (diced); fry for 3 minutes.
+4.  Add water, chicken stock powder (use the volume of water as directed by stock directions), potatoes and spices. Bring to boil.
+5.  Once boiling, cover and simmer for 20-25 minutes.
+6.  Take off lid, let simmer uncovered for 15 minutes.
+7.  Let cool and puree soup.
+
+> Serve with a dollop of sour cream and croutons if desired.
+
+\pagebreak
+
+## Summa Borscht
+
+### Vanessa Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   8 cups water
+
+•   1 lb. sausage
+
+•   1 tsp. salt
+
+•   1 medium onion
+
+•   2 cups frozen beat greens
+
+•   12 cups cubed potatoes
+
+•   2 tsp. dill seed (in spice holder)
+
+•   2 cups sour cream
+
+•   2 tsp. dill weed (loose)
+
+\end{multicols}
+
+**Methods**
+
+1.  Boil sausage in water with salt for 10 minutes.
+2.  Add onion, beat greens, potatoes, dill seed and boil until potatoes are done.
+3.  Add 2 cups sour cream and 2 tsp. dill weed.
+4.  Bring to a boil for a few minutes.
+
+## Summa Borscht
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 1½ lb. farmer sausage, or ham
+
+• 2 quarts water, or ham soup base
+
+• salt, as desired
+
+• 1 large onion, chopped
+
+• 2 cups French sorrel, fresh or frozen
+
+• 3 quarts potatoes, cubed
+
+• 2 tsp. dill seed, (in spice holder)
+
+• 1 bay leaves, optional
+
+• 2 cups sour cream 
+
+• 2 tsp. dill weed
+
+\end{multicols}
+
+**Methods**
+
+1. In dutch oven combine sausage or ham, water and salt. Boil for 10 min.
+2. Add onion, beet greens or sorrel, potatoes, dill seed and bay leaf. Boil until potatoes are done.
+3. Then add sour cream and dill weed. You may add more water as desired. 
+
+\pagebreak
+
+## Komst Borscht
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   Soup bone
+
+•   Water (half)
+
+•   1/2 head cabbage, cut
+
+•   Small onion
+
+•   Carrots
+
+•   1 can tomato soup
+
+•   1 can crushed tomatoes
+
+•   Salt to taste
+
+•   Pepper to taste
+
+•   1 bay leaf
+
+•   3 peppercorn
+
+\end{multicols}
+
+**Methods**
+
+1. In a pot combine all ingredients and boil until done. 
+
+
+## Zucchini Soup
+
+### Alice Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   3 medium zucchinis, peeled and chopped
+
+•   1/4 pound butter
+
+•   1 medium onion, finely chopped
+
+•   3½ cups chicken broth
+
+•   1/2 cup cream
+
+•   1/4 tsp. dried dill
+
+• 1/4 tsp. basil
+
+• 1/4 tsp. sage
+
+• 1/4 tsp. pepper
+
+• 1/4 tsp. salt
+
+• 1/4 tsp. nutmeg
+
+\end{multicols}
+
+**Methods**
+
+1.  Put all ingredients except cream in a pot and simmer until vegetables are soft.
+2.  Puree in blender until smooth. Put back in pot and add cream and heat until warm.
+3.  If desired top with sour cream.
+
+\pagebreak
+
+## Bacon-Potato Corn Chowder
+
+### Doris Hamm {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1 lb. bacon
+
+•   1 medium onion, sweet
+
+•   5 medium potatoes, cubed
+
+•   1 can 10 oz. / 284 ml. cream style corn
+
+•   1 can 12 oz. /354 ml. evaporated milk
+
+•   1/4 tsp. salt
+
+•   1/4 tsp. pepper
+
+•   1 can corn
+
+\end{multicols}
+
+**Methods**
+
+1.  In a large skillet, cook bacon over medium heat until crisp, stirring occasionally. Remove with a slotted spoon; drain on paper towels. Discard drippings, reserving 1/2 tsp. in pan. Add onion to the drippings; cook and stir over medium heat until tender.
+2.  Meanwhile, place potatoes in a large saucepan; add water to cover. Bring to a boil over high heat. Reduce the heat to medium; cook until tender about 10 to 15 min. Drain, reserving 1 cup of potato water.
+3.  Add corn, milk, salt, pepper and reserved potato water to saucepan; heat through. Stir in bacon and onion.
+
+## Bean and Bacon Soup
+
+### Martha Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   5 cups water
+
+•   1 cup soaked white navy beans
+
+•   1/4 cup soaked red lentils
+
+•   1 lb. bacon, chopped
+
+•   2 stalks celery, chopped
+
+•   2 carrots, chopped
+
+•   1 medium onion, chopped
+
+•   2 bay leaves
+
+•   1/2 Tbsp. pepper kernels, in spice holder
+
+•   1 package parsley
+
+•   1 can tomato soup
+
+•   Salt, as desired
+
+\end{multicols}
+
+**Methods**
+
+1.  Soak beans and lentils overnight.
+2.  In the morning fry bacon, chop celery, carrots, and onions.
+3.  Put all ingredients in stock pot and boil for about 3 hours.
+4.  Add 1 can of tomato soup and bring to a boil.
+
+\pagebreak
+
+## Black Bean soup
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1 lb. black beans
+
+•   2 medium onions, chopped
+
+•   2 clove garlic crushed
+
+•   3½ cups tomatoes, diced
+
+•   4 cups beef stock, 1 box 900ml
+
+•   1½ cups ham (optional), fully cooked and cubed
+
+•   2-3 carrots, chopped
+
+•   3 celery, stalks / chopped
+
+•   1-2 bay leaves
+
+•   1 tsp. chili powder
+
+•   1/2 tsp. pepper
+
+•   1 tsp. salt
+
+\end{multicols} 
+
+
+**Methods**
+
+1.  Wash beans and soak overnight.
+2.  In the morning drain beans and put in slow cooker.
+3.  Add all other ingredients in order given.
+4.  Cook in slow cooker for about 8 hours until done. Start off on high for about 2 hours then turn to low.
+
+## Easy Beef Vegetable Soup
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   4 cups beef stock
+
+•   1/2 cup celery, chopped
+
+•   1 small onion, chopped
+
+•   1 cup vegetables, frozen mixed
+
+•   1 tsp. Worcestershire sauce
+
+•   beef cooked, optional
+
+\end{multicols}
+
+**Methods**
+
+1.  Combine all ingredients, and simmer covered approx. 15 - 20 min. 
+
+> Note: Do not overcook vegetables.
+
+\pagebreak
+
+## Leek Soup
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 2 cups carrots
+
+• 2 cups celery
+
+• 2 cups potatoes
+
+• 1 medium onion
+
+• 2 leeks, depending on size
+
+• 1 Tbsp. butter
+
+• 1 Tbsp. flour
+
+• 5 cups chicken stock
+
+• 2 cups tomatoes
+
+• 1 bay leaves
+
+• Salt and pepper to taste
+
+• Parsley to taste
+
+\end{multicols}
+
+
+**Methods**
+
+1. Peel and chop carrots, celery, potatoes, leeks, and onion: reserve 
+separately.
+2. Brown onion in melted butter or oil for 7 min. stirring.
+Stir in flour. Slowly pour in chicken broth....keep stirring.
+3. Mix in tomatoes, bay leaf, pepper and parsley.
+Salt to taste if needed timer for 10 min. 
+4. Then add carrots, celery, and leeks boil for 15 min. Add potatoes 
+and cook until done about 20.
+
+## Parsnip Soup
+
+### Sarah Derksen {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 2 lb. pork hock, un•smoked
+
+• 2 lb. parsnips, or 7 cups, sliced
+
+• 7 cups potatoes, cubed
+
+• Parsley , as desired
+
+• Bay leaves, as desired
+
+• Black pepper, kernels
+
+• Cinnamon, stick
+
+• Star aniseed, as desired
+
+\end{multicols}
+
+**Methods**
+
+1. Bring pork hock to a boil and simmer for about 2 hours.
+2. Add parsnips and potatoes as well as the spices and simmer until well done.
+
+\pagebreak
+
+## Turkey or Chicken Noodle Soup
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 3-4  quarts turkey or chicken broth
+
+• 2 cups celery, chopped
+
+• 2 cups carrots, diced
+
+• 2 medium onions, chopped
+
+• Salt, as desired
+
+• 2 tsp. whole black pepper
+
+• 1/4 star,  star aniseed
+
+• 3-4 bay leaves
+
+• 1-2 package Italian parsley
+
+• 1/2 stick cinnamon, (optional)
+
+\end{multicols}
+
+**Methods**
+
+1. Put turkey or chicken broth into large stock pot, add celery, carrots, onions, and all the spices.
+2. Bring to a boil and simmer for about 2 hours. This soup can be frozen or put in jars to seal as soon as you take it off the oven.
+3. Noodles can be added when you are ready to serve the soup.
+
+>  For better flavour, make your own broth. Put turkey or chicken in stock pot, cover with 
+> 4 quarts water and simmer for at least 2 hours. Then drain through sieve, 
+> and let it cool down and take off all the fat that has come to the top 
+> and solidified. Now your broth is ready for the soup to be made.
+
+> Optionally, add some chicken soup base just for a little extra flavour.
+
+## Hamburger Tomato Vegetable Soup
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1 lb. ground beef
+
+•   2 quarts tomatoes
+
+•   1 large onions, chopped
+
+•   Beef stock, as desired
+
+•   1/2 cup pot barley
+
+•   2 cups celery, chopped
+
+•   2 cups carrots, chopped
+
+•   2 cups cabbage, chopped
+
+•   2 cups broccoli
+
+•   Salt and pepper to taste
+
+\end{multicols}
+
+**Ingredients**
+
+1.  Cook ground beef until redness is gone, drain excess fat. Add tomatoes, onions, beef broth, and pot barley, cook for about 20 min.
+2.  Add celery, carrots and cabbage boil until done. Then add broccoli, salt and pepper to taste. Cook a little longer.
+
+## Vegetable Soup
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 2 quarts ham stock or water
+
+• 2 lb. farmer sausage
+
+• 2 medium onions
+
+• 2 cups celery, chopped
+
+• 1 large summer savory, as desired
+
+• 2 cups carrots, sliced
+
+• 750  gram bag green beans frozen, as desired
+
+• 8-10 cups potatoes, in small cubes
+
+\end{multicols}
+
+**Methods**
+
+1. Boil farmer sausage for 10 min. in the ham stock.
+2. Add onions, celery, and summer savory and boil for 10 min.
+3. Add carrots, green beans, and potatoes, boil until done.
+4. Bottle into jars and seal.
+
+> Cream may be added when served.
+
+\pagebreak
+
+# Pasta
+
+![](pasta.png)
+
+\pagebreak
+
+## Beef Lasagna
+
+### Vanessa Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   Ground beef
+
+•   1 jar Prego sauce
+
+•   Cottage cheese (dry)
+
+•   2 eggs
+
+• Pinch of salt
+
+•   1/3 cup Parmesan cheese
+
+•   Lasagna noodles (sheet)
+
+•   Mozzarella cheese
+
+\end{multicols}
+
+**Methods**
+
+1.  Warm ground beef and Prego sauce in a saucepan.
+2.  Stir together cottage cheese, eggs, salt and Parmesan cheese.
+3.  Assemble ingredients into a pan. Layer half of the meat at the bottom.
+4.  Continue layering cottage cheese, meat sauce and Mozzarella cheese.
+5.  Bake at 350°F for 45 minutes and let rest for 5 minutes before serving.
+
+## Lasagna
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 1 medium onion, chopped
+
+• 1 clove garlic crushed
+
+• 1 lb. ground beef
+
+• 1 can mushrooms, optional
+
+• 1 tsp. oregano
+
+• 3/4 cup water
+
+• 1/3 cup Parmesan cheese
+
+• 6 ounces mozzarella cheese
+
+• 9-12 lasagna noodles, cooked and drained
+
+• 2 Tbsp. canola oil
+
+• 1 can (284ml.) tomato soup, or sauce
+
+• 5½ ounces tomato paste
+
+• 2 tsp. salt
+
+• 4 eggs
+
+• 4 cups cottage cheese, dry
+
+\end{multicols}
+
+
+**Ingredients**
+
+1. Sauté onion and garlic in 1 Tbsp. oil, add ground beef and cook until brown.
+2. Blend in mushrooms and their liquid, tomato sauce, tomato paste, 1 tsp. salt, oregano and water. Simmer 15 min.   
+3. Mix eggs with cottage cheese, Parmesan cheese, remaining oil and salt.
+4. Pour about half the meat sauce in the bottom of a 9x13 baking dish. and cover with a layer of lasagna noodles.
+5. Spread on the cottage cheese mixture. Add the next layer of noodles.
+6. Top with remaining meat sauce. Arrange slices of mozzarella cheese on top.
+7. Bake in moderate oven 350°F for 30 min. or until cheese is melted.  
+
+> Let noodles soak in water until they are limp before cooking. 
+
+\pagebreak
+
+## Spinach Lasagna
+
+### Vanessa Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   26 oz. spaghetti sauce
+
+•   No boil lasagna noodles
+
+•   16 oz. frozen chopped spinach
+
+•   Salt
+
+•   Pepper
+
+•   32 oz. ricotta
+
+•   2 cups mozzarella
+
+•   2 Tbsp. olive oil
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven at 400°F
+2.  Layer ingredients on noodles in a casserole dish.
+3.  Bake for 40-50 minutes.
+
+> Thaw and squeeze dry spinich. 
+
+\pagebreak
+
+## Macaroni and Cheese Deluxe
+
+### Natalie Hagman {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   2 cups macaroni 
+
+•   Cheddar cheese
+
+•   Cream of mushroom soup
+
+•   1 cup chopped onion
+
+•   3/4 cup mayonnaise
+
+•   1/4 cup green pepper
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven at 350°F.
+2.  Boil macaroni.
+3.  Add remaining ingredients and mix.
+4.  Pour into 2½ quart greased casserole dish and bake uncovered for 30 to 40 minutes.
+
+## Macaroni and Cheese Casserole
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1lb. macaroni
+
+•   1lb. whole tomatoes
+
+•   1 small onion, grated
+
+•   1 clove garlic, minced
+
+•   1/4 green pepper, chopped
+
+•   Salt
+
+•   Pepper
+
+•   2 cups grated cheddar cheese
+
+•   Butter
+
+\end{multicols}
+
+**Methods**
+
+1.  Cook macaroni until tender and drain. Set aside.
+2.  In a saucepan combine tomatoes, onion, garlic, green pepper and seasonings.
+3.  Simmer until green pepper and onion are soft.
+4.  Grease large baking dish with butter; alternate with layers of cheese and tomatoes.
+5.  Season between layers with salt and pepper.
+6.  Bake at 350°F for 1 hour until brown on top.
+
+> Serves 8.
+
+\pagebreak
+
+## Easy Fried Rice
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   2 cups rice, cooked
+
+•   2 Tbsp. oil (Canola)
+
+•   1 small onion, chopped
+
+•   1/2-1 cup frozen peas \& carrots, thawed
+
+•   2-3 Tbsp. soy sauce, as needed
+
+•   2 eggs, lightly beaten
+
+•   2 Tbsp. green onions, chopped 
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat skillet or wok to medium heat. Pour oil in the bottom. Add white onion, peas and carrots and fry until tender.
+2.  Slide the onion , peas and carrots to the side, and pour beaten eggs onto the other side. using a spatula, scramble the eggs. Once cooked, mix the eggs with the vegetable mix.
+3.  Add rice to the veggie and egg mixture. Pour the soy sauce on top. Stir and fry the rice and veggie mixture until heated through and combined. Add chopped green onions if desired.
+
+> The great thing about this recipe is that you can add whatever you would like. Bacon, chicken, or ham. It is the perfect fried rice base.
+
+> You can use day-old rice which makes this recipe a great way to use up leftovers.
+
+\pagebreak
+
+# Perogies and Dumplings
+
+\pagebreak
+
+## Stew Dumplings
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   2 eggs
+
+•   1½ cups flour 
+
+•   1/2 cup milk
+
+•   1½ tsp. baking powder
+
+•   1 tsp. salt
+
+\end{multicols}
+
+**Methods**
+
+1.  Mix all ingredients to form batter.
+2.  Drop batter by tsp. on top of a stew.
+3.  Cook for 8-10 mins.
+
+> Add more flour if dumplings are not stuff enough. 
+
+## Lazy Man's Perogies
+
+### Emmy Penner, modified by Cole Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   16 oz. package Rotelle pasta
+
+•   1/2 lb. bacon, chopped
+
+•   2 onions, chopped
+
+•   1/2 pound mushrooms, quartered
+
+•   1 Tbsp. butter
+
+•   15 oz. can sauerkraut, rinsed and drained
+
+•   2 cans cream of mushroom soup
+
+•   Salt and pepper to taste
+
+\end{multicols}
+
+
+**Methods**
+
+1.  Bring a large pot of slightly salted water to a boil; add pasta and cook for 8-10 minutes until *al dente*. Drain.
+2.  Preheat oven to 350°F.
+3.  Place bacon in large skillet and cook until evenly brown; stir in onions.
+4.  Saute mushrooms in butter in a separate pan.
+5.  In a large bowl, combine pasta, bacon, onion, mushrooms, sauerkraut, condensed soup and salt and pepper.
+6.  Pour into a 9x13 baking dish and bake in oven for 45 minutes.
+
+\pagebreak
+
+# Spreads, Dips and Sauces
+
+![](sauce.png)
+
+\pagebreak
+
+## Pizza Bun Mix
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1 lb. bacon
+
+•   1 stick pepperoni
+
+•   2 big onions
+
+•   1/2 green pepper
+
+•   1 tin mushrooms (with juice)
+
+•   2 tins tomato soup
+
+•   1 large block mozzarella cheese
+
+\end{multicols}
+
+**Methods**
+
+1.  Cut bacon into small pieces and fry.
+2.  Fry onions separately and add pepperoni. Add bacon to onion and pepperoni mixture.
+3.  Add the rest of the ingredients and mix to incorporate.
+4.  Remove from heat.
+5.  Spread over hamburger buns and bake to heat prior to eating.
+
+## Cheese Sauce
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   5 Tbsp. margarine
+
+•   5 Tbsp. flour
+
+•   Salt
+
+•   Pepper
+
+•   1½ Tbsp. milk
+
+•   4 Tbsp. Cheese Whiz™
+
+\end{multicols}
+
+**Methods**
+
+1.  Melt margarine on medium heat in a pot.
+2.  Add flour and stir until creamy.
+3.  Add salt and pepper, milk and Cheese Whiz™.
+4.  Heat and stir until thick and creamy.
+
+## Taco Dip
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   500g sour cream
+
+•   8 oz. Philadelphia cream cheese
+
+•   1 package taco seasoning
+
+\end{multicols}
+
+**Methods**
+
+1.  Soften cream cheese in microwave for 1-2 minutes.
+2.  Combine with sour cream and stir in taco seasoning.
+3.  Optionally add lettuce, tomatoes, onions, grated cheese, or whatever you like.
+
+\pagebreak
+
+## Garlic Spread
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1/4 cup butter
+
+•   1/4 cup dry Parmesan cheese
+
+•   1 Tbsp. oil
+
+•   1 tsp. garlic powder
+
+\end{multicols}
+
+**Methods**
+
+1.  Mix all ingredients
+2.  Spread on slices of bread.
+3.  Broil until golden brown.
+
+## Spinach Dip
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1 cup mayonnaise
+
+•   1½ cups sour cream
+
+•   10 oz. chopped spinach
+
+•   1.4 oz. envelope vegetable soup mix
+
+•   2 green onions
+
+\end{multicols}
+
+**Methods**
+
+Combine all ingredients.
+
+\pagebreak
+
+## Apple Pie Filling / Apple Sauce
+
+### Caroline Buhr {.unlisted .unnumbered}
+
+**Ingredients:**
+
+\begin{multicols}{3}
+
+•   Apples, peeled and cut
+
+•   1 cup water
+
+•   3 cups sugar, or less
+
+•   4 Tbsp. cornstarch
+
+\end{multicols}
+
+**Methods**
+
+1.  Cut apples to fill dutch oven, add 1 cup water and boil until it cooks up.
+2.  Add 3 cups sugar, and 4 Tbsp. cornstarch. Cook until thickened.
+3.  You can put it in jars and seal or in containers and freeze.
+
+\pagebreak
+
+## Frank's RedHot Buffalo Chicken Dip
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   2 cups cooked shredded chicken
+
+•   8 ounces cream cheese, softened
+
+•   1/2 cup FRANK'S RedHot® sauce
+
+•   1/2 cup ranch dressing
+
+•   1/2 cup blue cheese crumbles
+
+\end{multicols}
+
+**Methods**
+
+1. Preheat oven to 350F. Mix all ingredients in a large bowl. Spread evenly into a 1 quart baking dish. 
+2. Bake for 20 minutes or until mixture is heated through; stir. Sprinkle with green onions if desired. 
+3. Serve with your choice of chips, crackers and/or cut up veggies.
+
+\pagebreak
+
+# Pies
+
+![](pie)
+
+\pagebreak
+
+## Chocolate Cream Pie
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+Filling:
+
+\begin{multicols}{3}
+
+•   4 cups milk
+
+•   1 cup white sugar
+
+•   2 Tbsp. margarine
+
+•   2 tsp. vanilla
+
+•   1 tsp. salt
+
+•   6 Tbsp. cornstarch
+
+•   6 Tbsp. cocoa powder
+
+\end{multicols}
+
+*Note: this has been doubled to fit a 9x13 pan*
+
+Base:
+
+•   2 cups flour
+
+•   1 cup room temperature butter or margarine 
+
+**Methods**
+
+Base:
+
+1.  Mix flour and butter with a fork until crumbly.
+2.  Spread over greased 9x13 pan and pat down.
+3.  Bake at 325°F for 15 minutes.
+
+Filling:
+
+1.  Mix filling ingredients in a saucepan over medium heat.
+2.  Bring to a boil.
+3.  Immediately remove from heat and let cool.
+
+**Notes**
+
+Enjoy with whipped cream on top.
+
+## Quick Lemon Pie
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   2 cups flour
+
+•   1 cup white sugar
+
+•   1 cup coconut
+
+•   1 cup margarine
+
+•   1 tsp. baking powder
+
+•   1 tsp. baking soda
+
+•   1 pkg lemon pie filling
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven to 300°F.
+2.  Rub flour, sugar, coconut, margarine, baking powder and baking soda together until crumbly.
+3.  Pat 3/4 of the crumble into the bottom of a 9x13 pan. Reserve the rest for the top.
+4.  Make 1 package lemon pie filling and pour over the base. Top with the remainder of the crumbs.
+5.  Bake for 30-35 minutes or until done.
+
+\pagebreak
+
+## Pumpkin Pie
+
+**Ingredients**
+
+Pastry (for 2 single crust 9" (23 cm) pies):
+
+\begin{multicols}{2}
+
+•   2½ cups all•purpose  flour
+
+•   1 tsp. granulated sugar
+
+•   1/2 tsp. salt
+
+•   1 cup cold, unsalted butter, cut in 1-inch cubes
+
+•   1/2 cup ice water
+
+\end{multicols}
+
+Pie Filling (for 2 pies):
+
+\begin{multicols}{2}
+
+•   4 eggs, beaten
+
+•   1 cup brown sugar, firmly packed
+
+•   1 can E.D.SMITH® Pure Pumpkin
+
+•   2½ tsp. Pumpkin pie spice
+
+•   1/2 tsp. salt
+
+•   1½ cup heavy cream or evaporated milk
+
+\end{multicols}
+
+**Methods**
+
+1.  In the bowl of a food processor or by hand in a large bowl, combine flour, sugar and salt.
+2.  Add cubed, cold butter and pulse several times or cut in with a fork or pastry mixer until it resembles coarse crumbs.
+3.  Add in ice water a bit at a time and mix until a ball can be formed or dough begins to hold together.
+4.  Turn out to a lightly floured surface and gather together into a ball. Cut into 2 even pieces, press into discs, wrap in plastic and chill for at least 30 minutes.
+5.  Remove both discs from the fridge and let them sit for 20 minutes. Remove plastic and roll both discs out onto the surface. Transfer both to their own 9" pie dish and flute edges.
+6.  Place eggs in a medium bowl and beat lightly. Add brown sugar, whole can of Pure Pumpkin (796ml), pumpkin pie spice and salt. Stir ingredients together until well combined. Blend in heavy cream or evaporated milk. Pour filling evenly into each prepared pie shell.
+7.  Bake both pies together at 425°F (220°C) for 15 minutes. Reduce oven temperature to 350°F (180°C) and continue baking 35-45 minutes longer or until knife inserted 1-inch from the crust edge comes out clean and filling is almost set in the centre. Cool on hour and serve.
+
+> Note: You can add more brown sugar, up to 1/2 cup, for a sweeter pie. Pumpkin pie spice can be made using 1 tsp. ground ginger, 1 tsp. ground cinnamon, 1/2 tsp. ground cloves and 1/2 tsp. ground nutmeg.
+
+\pagebreak
+
+## Apple Pie / Pie Crust
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   5 cups apples
+
+•   2/3 cup sugar
+
+•   1 1/4 Tbsp. flour
+
+•   1 1/4 Tbsp. cornstarch
+
+•   1/2 tsp. cinnamon
+
+•   5 cups flour
+
+•   1 lb. lard
+
+•   1 cup milk
+
+\end{multicols}
+
+**Methods**
+
+1.  For filling: peel and cut apples, set aside.. Mix sugar, flour, cornstarch and cinnamon. Add to apples and mix making sure all the apples are well coated. Let stand for 15 min. Ready to place in crust.
+2.  For pie crust: mix flour, lard, and salt into a crumb mixture, then add milk and work into a nice dough. Chill for about 1/2 an hour before you roll out for pie.
+3.  when frozen thaw for 15 min. and cut slits into partly frozen pie. Bake at 350-375°F depending on your oven until golden brown.
+
+## Blueberry Rhubarb Pie / Pie Crust
+
+### Emmy Penner & Rowena Friesen {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   4 cups blueberries
+
+•   2 cups rhubarb
+
+•   3 Tbsp. cornstarch
+
+•   3 Tbsp. flour
+
+•   1 cup white sugar
+
+•   3/4 cup brown sugar
+
+•   5 cups flour
+
+•   1 lb. lard
+
+•   1 cup milk
+
+•   Pinch of salt
+
+\end{multicols}
+
+**Methods**
+
+1. For the filling: mix cornstarch, flour and both sugars to the blueberries and rhubarb, making sure all the fruit is well covered with sugar mixture. 
+2. For the pie crust: mix, flour, lard and salt into a crumb mixture. Then add milk and work into a nice dough. Chill for about 1/2 an hour before you roll out for pie.
+3. Bake at 350-375°F until golden brown.
+
+\pagebreak
+
+## Rhubarb Pie / Pie Crust
+
+### Rowena Friesen & Leona Kalssen {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 5 cups flour
+
+• 1 lb. lard
+
+• 1 cup milk
+
+• 4 cups rhubarb
+
+• 1 cup sugar
+
+• 2 Tbsp. cornstarch
+
+• 2 Tbsp. flour
+
+• 3/4 cup sugar
+
+\end{multicols}
+
+**Methods**
+
+1. For the pie crust: mix flour, lard, and salt into a crumb mixture, then add
+ milk and work into a nice dough. Chill for about 1/2 hr.
+before you roll out for pie.
+2. For the filling: mix cornstarch, flour and sugar then add to
+ rhubarb and mix thoroughly to stick to rhubarb.
+3. When frozen thaw for 15 min. & cut slits into partly 
+frozen pie.
+4. Bake at 350-375°F depending on your oven until golden brown.
+
+> Note: this recipe is for 5 pies.
+
+
+# Cookies & Biscuits
+
+![](cookie.png)
+
+\pagebreak
+
+## Chocolate Chip Cookies
+
+### Nolan Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   2½ cups flour
+
+•   1 tsp. baking soda
+
+•   1/2 tsp. salt
+
+•   3/4 cup brown sugar
+
+•   3/4 cup sugar
+
+•   2 eggs
+
+•   1 cup margarine, softened
+
+•   1 tsp. vanilla extract
+
+•   1½ cups chocolate chips
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven at 375°F.
+2.  Combine flour, baking soda and salt.
+3.  In a large bowl combine margarine, sugars and vanilla. Cream mixture.
+4.  Add one egg in at a time and beat until combined.
+5.  Fold the flour mixture into the wet mixture. Stir in chocolate chips.
+6.  Bake 8-10 minutes.
+
+## Unbaked Cookies
+
+### Lucette Sabourin {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   4 cups oats
+
+•   1/2 cup coconut
+
+•   Cocoa powder (to brown)
+
+•   2 cups white sugar
+
+•   1/2 cup margarine
+
+•   1/2 cup milk
+
+•   1 tsp. vanilla
+
+\end{multicols}
+
+**Methods**
+
+1.  Combine oats, coconut and cocoa powder in a large bowl. Add enough cocoa powder to brown the oats.
+2.  In a saucepan combine sugar, margarine, milk and vanilla and bring to a boil. Boil for 2 minutes.
+3.  Immediately remove from heat and add to oat mixture.
+4.  Serve in a bowl wet to eat or drop tsp. on wax paper and let set for cookies.
+
+\pagebreak
+
+## Monster Cookies
+
+### Shannon Edel {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1½ cups margarine
+
+•   3/4 cup white sugar
+
+•   3/4 cup brown sugar
+
+•   3 eggs
+
+•   1½ tsp. vanilla
+
+•   1 tsp. baking soda 
+
+•   3 cups oatmeal
+
+•   28g chocolate chips
+
+•   1½ cups smarties
+
+•   2¼ cups flour
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven at 350°F.
+2.  Beat margarine and sugars until they are fluffy.
+3.  Add in eggs, one at a time, beating to incorporate after each addition.
+4.  Add vanilla.
+5.  Add oatmeal and baking soda; mix.
+6.  Stir in chocolate chips and smarties
+7.  Fold in the flour.
+8.  Bake for 12 minutes.
+
+## Orange Cookies
+
+### Denis Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   3¾ cup flour
+
+•   1 tsp. baking powder
+
+•   1 tsp. baking soda
+
+•   1 tsp. ground cinnamon
+
+•   1/4 tsp. ground nutmeg
+
+•   1½ cups sugar
+
+•   1 cup butter or margarine, softened
+
+•   2 large eggs
+
+•   1 cup dairy or sour cream
+
+•   Grated rind of 2 oranges
+
+•   1/2 cup orange juice
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven at 350°F.
+2.  Whisk together flour, baking powder, baking soda, cinnamon and nutmeg.
+3.  Beat sugar and butter until creamy; add eggs one at a time beating in between each addition.
+4.  Add orange juice and rind; beat to mix.
+5.  Add dry ingredients to wet and fold to mix.
+6.  Drop dough by tsp. onto a baking tray.
+7.  Bake for 12-15 minutes.
+
+\pagebreak
+
+## Fork Cookies
+
+### Sarah Derksen {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1/2 cup margarine
+
+•   1/2 cup shortening
+
+•   1½ cup white sugar
+
+•   2 eggs
+
+•   2 Tbsp. milk
+
+•   1 tsp. baking soda
+
+•   2 tsp. vanilla
+
+•   1 cup raisins, optional
+
+•   3½ to 4 cups flour
+
+•   1½ tsp. cream of tartar
+
+\end{multicols}
+
+**Methods**
+
+1.  Mix margarine, shortening, sugar, eggs, milk in order given. Then add baking soda and vanilla.
+2.  Sift together flour and cream of tartar, add to creamed mixture. Mix well, roll in balls and press with fork.
+3.  Bake at 350°F until light golden.
+
+## Fork Cookies
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1 cup brown sugar
+
+•   3/4 cup butter
+
+•   1 egg, beaten
+
+•   2 cups flour
+
+•   1/2 tsp. salt
+
+•   1/2 tsp. baking soda
+
+•   1/2 tsp. cream of tartar
+
+•   1 tsp. vanilla
+
+•   1/2 cup raisins
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven at 350°F.
+2.  Cream sugars, butter, egg and vanilla.
+3.  In a separate bowl combine all other ingredients and add to wet mixture by folding.
+4.  Place small ball of dough on a cookie sheet and press with fork.
+5.  Bake until just light golden brown.
+
+\pagebreak
+
+## Roll Kuchen
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   14 eggs
+
+•   3 cups whipping cream
+
+•   1 Tbsp. salt
+
+•   Flour
+
+•   Oil (for frying)
+
+\end{multicols}
+
+**Methods**
+
+1.  Add oil (1 inch of oil; 1/2 inch from top of fryer) to fryer and let heat to high heat (450°F).
+2.  Add eggs and whipping cream to a mixer.
+3.  Beating gently, slowly add flour 1/2 cup at a time.
+4.  Continue adding flour until the dough is soft and has elasticity.
+5.  Roll out dough to about 1/4 inch thick.
+6.  Cut into rectangles; cut slit into each one in the centre.
+7.  Drop cut dough into hot oil and fry until golden brown.
+8.  Remove from oil and let cool on paper towel.
+
+> Roll kuchen can be served as is, with fruit (e.g., watermelon), jam, syrup or powdered sugar.
+
+\pagebreak
+
+## Dad's Cookies
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1 cup butter, room temperature
+
+•   2 cups brown sugar
+
+•   2 eggs
+
+•   1 cup coconut
+
+•   2 cups oatmeal
+
+•   2 cups flour
+
+•   1/2 tsp. baking soda
+
+•   1 tsp. vanilla
+
+•   2 tsp. baking powder
+
+•   Pinch of salt
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven to 350°F.
+2.  Cream butter and sugar until fluffy.
+3.  Add eggs one at time, beating in between to incorporate. Add vanilla.
+4.  Combine oatmeal, flour, coconut, baking soda, baking powder and salt in a separate bowl.
+5.  Add dry ingredients to the butter-sugar mixture and fold to combine.
+6.  Roll into balls using about a tsp. of dough; flatten with a fork.
+7.  Bake in oven until nicely browned.
+
+## Soybutter Cookies
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1 cup margarine
+
+•   1 cup soy butter (e.g., Wowbutter)
+
+•   1 cup white sugar
+
+•   1 cup brown sugar
+
+•   2 cups flour
+
+•   2 eggs
+
+•   1 tsp. baking powder
+
+•   1/2 tsp. baking soda
+
+•   1 tsp. salt
+
+•   2 cups chocolate chips
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven at 350°F.
+2.  Cream together margarine, soy butter, sugars and eggs; beat until creamy.
+3.  Combine flour, baking powder and baking soda; fold into wet mixture.
+4.  Fold in chocolate chips.
+5.  Bake for 12 minutes.
+
+\pagebreak
+
+## Ginger Snaps
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   2 cups flour
+
+•   1 Tbsp. ginger
+
+•   2 tsp. baking soda
+
+•   1 tsp. cinnamon
+
+•   1/2 tsp. salt
+
+•   3/4 cup shortening
+
+•   1 cup sugar
+
+•   1 egg
+
+•   1/4 cup molasses
+
+•   Sugar
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven to 350°F.
+2.  Cream shortening and sugar; beat in egg and molasses.
+3.  Sift in dry ingredients and mix by folding.
+4.  Form small balls and roll in sugar; place 2 inches apart on a baking tray.
+5.  Bake for 12-15 minutes; cool on rack.
+
+> These cookies will flatten during baking and look cracked on top.
+
+## Ginger Snaps
+
+### Evelyn Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   4 cups flour
+
+•   2 tsp. ginger
+
+•   2 tsp. cinnamon
+
+•   1 tsp. cloves
+
+•   2 tsp. baking powder
+
+•   4 tsp. baking soda
+
+•   1 tsp. salt
+
+•   1½ cups margarine
+
+•   2 cups white sugar
+
+•   1/2 cup molasses
+
+•   2 eggs
+
+•   1 tsp. vanilla extract
+
+\end{multicols}
+
+**Methods**
+
+1.  Sift flour, cinnamon, ginger, cloves, baking soda, baking powder, and salt, set aside.
+2.  Melt margarine and beat together with both sugars and eggs beat well, then add molasses.
+3.  Add flour mixture to creamed sugars etc. Mix and roll into balls and dip into white sugar. Don't press down, they will flatten nicely.
+
+\pagebreak
+
+## Baking Powder Biscuits
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   2½ cups sifted flour
+
+•   4 tsp. baking powder
+
+•   1/2 tsp. salt
+
+•   1/3 cup shortening
+
+•   3/4 cup milk
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven at 450°F.
+2.  Soft together flour, baking powder and salt.
+3.  Cut in shortening with 2 knives.
+4.  Add milk until dough is soft.
+5.  Pat 1/2 inch thick on floured board and cut with 2 inch biscuit cutter (makes \~16 biscuits).
+6.  Place on baking sheet and bake until brown, about 12-15 minutes.
+
+## Baking Powder Biscuits
+
+### Martha Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   2 cups white flour
+
+•   4 tsp. baking powder
+
+•   1/2 tsp. salt
+
+•   1/3 cup canola oil
+
+•   2/3 cup milk
+
+\end{multicols}
+
+**Methods**
+
+1.  Sift and mix dry ingredients into a bowl. Drizzle oil into the flour, mix until crumb mixture forms, then add milk. Avoid over mixing.
+2.  Roll out to about 1/2 in. thick. Cut into whatever shape you want. Bake at 450°F. for about 7 min.
+
+\pagebreak
+
+## Iced Pumpkin Cookies
+
+### Denis Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+Dough:
+
+\begin{multicols}{3}
+
+•   2½ cups flour
+
+•   1 tsp. baking powder
+
+•   1 tsp. baking soda
+
+•   2 tsp. ground cinnamon
+
+•   1/2 tsp. ground nutmeg
+
+•   1/2 tsp. ground gloves
+
+•   1/2 tsp. salt
+
+•   1/2 cup butter, softened
+
+•   1½ cups white sugar
+
+•   1 cup pumpkin
+
+•   1 egg
+
+•   1 tsp. vanilla
+
+\end{multicols}
+
+Glaze:
+
+\begin{multicols}{3}
+
+•   2 cups icing sugar
+
+•   1 Tbsp. melted butter
+
+•   3 Tbsp. milk
+
+•   1 tsp. vanilla
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven at 350°F,
+2.  Combine flour, baking powder, baking soda, cinnamon, nutmeg, cloves and salt.
+3.  Beat butter and white sugar together until creamy; add egg and vanilla. Add to dry ingredients.
+4.  Drop on cookie sheet by tablespoonful; flatten slightly.
+5.  Bake for 15-20 minutes. Cool.
+6.  Combine icing sugar, milk, melted butter and vanilla, adding extra milk as needed. Beat.
+7.  Drizzle glaze on top of cooled cookies.
+
+\pagebreak
+
+## Eggnog Cookies
+
+### Cole Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   4 cups flour
+
+•   4 tsp. baking powder
+
+•   1 tsp. salt
+
+•   1 tsp. ground nutmeg
+
+•   1 tsp. ground cinnamon
+
+•   1½ cup butter
+
+•   1 cup sugar
+
+•   1 cup brown sugar
+
+•   4 egg yolks
+
+•   2 tsp. vanilla
+
+•   1 tsp. rum extract
+
+•   1 cup full fat eggnog
+
+\end{multicols}
+
+Frosting:
+
+\begin{multicols}{2}
+
+•   1 cup butter (half salted, half unsalted)
+
+•   6-10 Tbsp. full fat eggnog to consistency
+
+•   1 tsp. rum extract
+
+•   6 cups powdered sugar
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven to 350°F.
+2.  Whisk together flour, baking powder, salt, nutmeg and cinnamon. Set aside.
+3.  Beat together butter and sugar until fluffy; add in egg yolks one at a time blending after each addition. Mix in vanilla, rum extract and eggnog.
+4.  Scoop dough by heaping Tbsp. onto a baking sheet, spacing cookies 2 inches apart.
+5.  Bake for 11-13 minutes. Allow to rest on baking sheet for a few minutes before transferring to a wire rack.
+6.  For the frosting, beat the butter until pale and fluffy; add rum extract and 3 Tbsp. eggnog. Mix in powdered sugar 1/2 cup at a time. Add additional eggnog if needed for desired consistency.
+
+## Melting Shortbread
+
+### Marie Remillard {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 2 cups flour
+
+• 1 cup icing sugar
+
+• 1 lb. butter
+
+• 1/2 cup cornstarch
+
+• 1 tsp. vanilla extract
+
+\end{multicols}
+
+**Methods**
+
+1. Preheat oven at 350°F. 
+2. Cream butter and add sugar, work together.
+3. Sift flour and cornstarch. add to the creamed mixture.
+4. Either drop from Tbsp. or add a little more flour
+and knead until it can be rolled, or put through cookie 
+tube.
+5. Bake until light brown, about 13 minutes.
+
+\pagebreak
+
+## Christmas Sugar Cookies (Frosted Trees)
+
+### Pauline & Barry {.unnumbered .unlisted}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   2 cups flour
+
+•   1/2 tsp. nutmeg
+
+•   1/2 tsp. ginger
+
+•   1/4 tsp. baking powder
+
+•   1/2 tsp. salt
+
+•   1 cup butter
+
+•   1/2 cup icing sugar
+
+•   2/3 cup icing sugar
+
+•   2 Tbsp. water
+
+•   Food colouring
+
+\end{multicols}
+
+**Methods**
+
+1.  In a small bowl sift together flour, nutmeg, ginger, baking powder and salt.
+2.  Blend butter and icing sugar in ma separate bowl until light and fluffy.
+3.  Add flour mixture to butter mixture 1/3 cup at a time; blend. Wrap and chill for 2 hours.
+4.  Preheat oven to 350°F.
+5.  Roll chilled dough to about 1/4 inch thick and cut out cookies with a cookie cutter.
+6.  Place 1 inch apart on cookie sheet. Bake for 15-20 minutes until light brown.
+7.  Mix 2/3 cup icing sugar, water and food colouring. Frost cooled cookies.
+
+## Gingerbread Cookie Sandwiches
+
+### Cole Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+Cookies:
+
+\begin{multicols}{3}
+
+• 2¼ cup flour
+
+• 2 tsp. ground ginger
+
+• 2 tsp. baking soda
+
+• 1 tsp. cinnamon
+
+• 1 tsp. ground cloves
+
+• 1⁄4 tsp. kosher salt
+
+• 3⁄4 cup (170g) butter softened
+
+• 1 cup brown sugar
+
+• 1 large egg 
+
+• 4 Tbsp. granulated sugar 
+
+\end{multicols}
+
+Filling:
+
+\begin{multicols}{2}
+
+• 1 cup (227g) butter softened
+
+• 1 pinch salt
+
+• 4 cups icing sugar
+
+• 1 jar marshmallow crème 
+
+\end{multicols}
+
+**Methods**
+
+1. Cream butter until butter is light and fluffy (approx. 2 min).
+2. Add almond extract and salt.
+3. Add icing sugar 1⁄2 cup at a time. Mix on high for 2-3 min.
+4. Fold in marshmallow crème by hand. Can be used immediately or refrigerated.
+5. Spread filling on bottoms of half the cookies and top with the other half.
+
+\pagebreak
+
+## Oatmal Raisin Cookies
+
+### Clara Wiebe (Red River Valley Lodge) {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 1 cup margarine
+
+• 1/4 cup white sugar
+
+• 3/4 cup brown sugar
+
+• 1 tsp. vanilla
+
+• 1 egg
+
+• 1½ cup flour
+
+• 1 tsp. baking soda
+
+• 1 3/4 cups oatmeal
+
+• 1½ cups raisins
+
+\end{multicols}
+
+
+**Methods**
+
+1. Preheat oven at 375°F.
+2. Cream butter or margarine with sugars. Add eggs and vanilla and
+ mix well. Add dry ingredients and blend well.
+3. Stir in oatmeal, and raisins mix well. Drop dough by heaping 
+tsp. onto cookie sheet.
+4. Bake for about 8-10 minutes.
+
+> Mix a few hours before baking to allow oatmeal to adsorb the moisutre.
+
+## Oatmeal Chocolate Chip Cookies 
+
+### Clara Wiebe (Red River Valley Lodge) {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 2 cups margarine
+
+• 4 eggs
+
+• 3/4 cup white sugar
+
+• 1½ cups brown sugar
+
+• 2 2/3 cups flour
+
+• 2 tsp. vanilla extract
+
+• 2 tsp. baking soda
+
+• 4 cups oatmeal
+
+• 2-3 cups chocolate chips
+
+\end{multicols}
+
+**Methods**
+
+1. Preheat oven at 350°F.
+2. Beat margarine, eggs, sugars and vanilla until light and fluffy.
+3. Add dry ingredients and blend well. Stir in chocolate chips.
+4. Drop by tsp. onto un-greased cookie sheets.
+5. Bake for about 8-10 minutes.
+
+\pagebreak
+
+## Oatmeal Date Cookies 
+
+### Caroline Buhr {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 1 cup brown sugar
+
+• 1 cup margarine
+
+• 2 eggs
+
+• 1 tsp. vanilla
+
+• 2 cups oatmeal
+
+• 2 cups flour
+
+• 1 tsp. baking soda
+
+• 3 tsp. baking powder
+
+• 1/2 tsp. salt
+
+• 2-3 cups dates, cooked
+
+\end{multicols}
+
+
+**Methods**
+
+1. Preheat oven at 325°F.
+2. Mix brown sugar, softened margarine, eggs and vanilla.
+3. Add oatmeal, flour, baking soda, baking powder and salt.
+4. Mix and roll in balls, press flat with a glass.
+5. Bake for about 7 minutes.
+6. Let cool and put together with dates.
+
+*This is a traditional recipe made by Emmy for years that has been passed down for three generations.*
+
+\pagebreak
+
+## Soft Cocoa Cookies
+
+### Sarah Derksen {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 1/2 cup margarine
+
+• 1 cup brown sugar
+
+• 1/2 cup cocoa
+
+• 1 egg
+
+• 2/3 cup milk
+
+• 1/4 tsp. salt
+
+• 1 1/3 cup flour
+
+• 3 tsp. baking powder
+
+• 1/2 cup coconut
+
+• 1 tsp. vanilla extract
+
+\end{multicols}
+
+**Methods**
+
+1. Sift dry ingredients together and set aside.
+2. Beat together margarine, sugar, egg, vanilla, and milk.
+3. Mix together and drop by tsp. onto un-greased cookie sheet.
+
+> You may need to add 1/4 cup more flour. 
+
+## Sour Cream Chocolate Chip Cookies
+
+### Evelyn Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 2 cups brown sugar
+
+• 1 cup margarine
+
+• 2 eggs
+
+• 1 cup sour cream 
+
+• 4 cups flour
+
+• 1 tsp. baking powder
+
+• 2 tsp. baking soda
+
+• 1 tsp. vanilla extract
+
+• 1 cup chocolate chips
+
+\end{multicols}
+
+**Methods**
+
+1. Cream sugar, margarine, Add eggs and beat well.
+Add sour cream and vanilla, mix well.
+2. Sift together flour, baking powder, and baking soda.
+Add to the creamed mixture and mix well. Then add
+ chocolate chips.  Drop by tsp. on baking sheet.
+3. Bake at 350°F for about 7 min.
+
+\pagebreak
+  
+
+# Muffins & Cupcakes
+
+![](muffins.png)
+
+\pagebreak
+
+## Bran Muffins
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1½ cups wheat bran
+
+•   1/2 cup wheat germ
+
+•   1 cup whole wheat flour
+
+•   1/2 cup ground flax meal
+
+•   1 tsp. baking powder
+
+•   1 tsp. baking soda
+
+•   1/2 tsp. salt
+
+•   1/2 tsp. ground cinnamon
+
+•   1 cup raisins (optional)
+
+•   1 cup brown sugar
+
+•   1/2 cup canola oil
+
+•   1 cup skim milk
+
+•   2 Tbsp. vinegar
+
+•   1 egg
+
+•   2 Tbsp. fancy molasses
+
+
+\end{multicols}
+
+> For a high protein bran muffin, add 2 scoops of vanilla protein powder.
+
+**Methods**
+
+1.  Preheat oven at 390°F
+2.  Mix milk and vinegar and stir to make buttermilk.
+3.  Combine brown sugar, oil, buttermilk, eggs and molasses in a large mixing bowl.
+4.  Mix dry ingredients in a large bowl; add the liquid mixture to the dry ingredients.
+5.  Fold together briefly until incorporated.
+6.  Bake for 13 minutes.
+
+## October Oatmeal Pumpkin Muffins
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   Non-stick cooking spray
+
+•   1/2 cup all-purpose flour
+
+•   1/2 cup whole wheat flour
+
+•   1/2 cup brown sugar 
+
+•   1 tsp. salt
+
+•   1 tsp. pumpkin pie spice
+
+•   3/4 tsp. baking powder
+
+•   1/2 tsp. baking soda
+
+•   1/2 tsp. ground cinnamon
+
+•   1/2 tsp. ground nutmeg
+
+•   1¼ cups pumpkin puree
+
+•   1/4 cup flax meal
+
+•   1/2 cup milk
+
+•   2 eggs, beaten
+
+•   1/4 cup maple syrup or molasses
+
+•   3/4 cup quick-cooking rolled oats
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat the oven to 375°F.
+2.  Whisk all-purpose flour, whole wheat flour, sugar, salt, flax meal, pumpkin pie spice, baking powder, baking soda, cinnamon, and nutmeg together in a large bowl until thoroughly combined. Stir pumpkin puree, milk, eggs, and maple syrup into flour mixture until batter is smooth; fold oats into batter. Scoop batter into 12 greased muffin cups, filling them to the top.
+3.  Bake in the preheated oven until a toothpick inserted into the center of a muffin comes out clean, 20 to 30 minutes; set aside to cool 5 to 10 minutes before serving.
+
+\pagebreak
+
+## Banana Cranberry Whole-Grain Breakfast Muffins
+
+### City Line {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   3 cups bananas, mashed
+
+•   1 cup whole wheat flour
+
+•   1 cup quick-cooking oats
+
+•   1/4 cup golden flax, ground
+
+•   1/2 cup wheat germ
+
+•   3 eggs
+
+•   1/2 cup maple syrup
+
+•   1½ tsp. baking powder
+
+•   1½ tsp. baking soda
+
+•   1/2 tsp. salt
+
+•   2 tsp. vanilla extract
+
+•   1 Tbsp. cinnamon
+
+•   1/2 cup canola oil
+
+•   3/4 cup cranberries, dried
+
+•   2 Tbsp. pecans, crushed
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven to 350°F.
+2.  Grease muffin pan with non-stick spray.
+3.  In large bowl, combine the bananas, flour, oats, flax seed meal, wheat germ, eggs, maple syrup, baking powder, baking soda, salt, vanilla, cinnamon, and oil. Mix well using a hand mixer. Once mixed, stir the cranberries into the batter by hand.
+4.  Measure and pour about 1/2 cup batter for each muffin into prepared muffin pan. Top each muffin with about 1/2 tsp. of crushed pecans.
+5.  Bake for 25- 28 min or until toothpick comes out clean. Allow to cool in the pan 1 to 2 min. before removing.
+
+\pagebreak
+
+## Blueberry Flax Muffins
+
+### Ellie Keck {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1½ cups white flour
+
+•   1 cup whole wheat flour
+
+•   1/2 cup golden flax, ground
+
+•   1 tsp. baking powder
+
+•   1 tsp. baking soda
+
+•   1/2 tsp. salt
+
+•   1/3 cup canola oil
+
+•   1 egg
+
+•   1 cup buttermilk
+
+•   3/4 cup brown sugar
+
+•   1½ cups blue berries
+
+•   1/4 cup brown sugar
+
+•   1/4 cup white flour
+
+•   1/3 cup oatmeal
+
+•   1/2 tsp. cinnamon
+
+•   2 Tbsp. canola oil
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven at 400°F.
+2.  Mix white flour, whole wheat flour, flax, baking powder, baking soda, and salt. Set aside. Add blueberries.
+3.  Mix oil, egg, buttermilk, and brown sugar until well blended.
+4.  Add creamed mixture to dry ingredients and stir. Do not over mix.
+5.  Bake for 25 minutes.
+
+## Carrot Spice Muffins
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   2 eggs
+
+•   1/2 cup canola oil
+
+•   1 tsp. vanilla extract
+
+•   2 cups carrots, grated
+
+•   1¼ cups whole wheat flour
+
+•   3/4 cup brown sugar
+
+•   1/4 cup wheat bran
+
+•   1 tsp. cinnamon
+
+•   1/4 tsp. nutmeg
+
+•   1 tsp. baking soda
+
+•   3/4 tsp. baking powder
+
+•   1/2 tsp. salt
+
+•   1/2 cup raisins
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven 375°F.
+2.  Beat eggs, oil and vanilla until light. Stir in carrots. Add raisins.
+3.  Mix and add next 8 ingredients, stir until moistened.
+4.  Bake for 25-30 minutes or until top springs back.
+
+\pagebreak
+
+## Low-fat Lemon Poppy Seed Muffins
+
+### Winnipeg Free Press {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 2-3 lemons , fresh
+
+• 2½ cups white flour 
+
+• 1 Tbsp. baking powder
+
+• 3/4 tsp. baking soda
+
+• 1/4 tsp. salt
+
+• 1/4 cup canola oil
+
+• 1/2 cup sugar
+
+• 2 eggs
+
+• 1½ cups buttermilk 
+
+• 1/4 cup poppy seeds
+
+• 2 Tbsp. lemon zest grated
+
+• 1/3 cup lemon juice, fresh
+
+• 1/3 cup sugar
+
+\end{multicols}
+
+**Methods**
+
+1. In bowl, combine flour, baking powder, baking soda, salt; mix well.
+2. In another large bowl, beat oil with sugar, eggs, buttermilk,
+ poppy seeds, and lemon zest.
+3. Add dry ingredients to wet ingredients and combine until
+ just moistened. 
+4. Spoon batter into 12 large non-stick, lightly sprayed or paper
+ lined muffin cups.
+5. Preheat oven to 400°F.  BAKE 20 to 25 mins.
+6. Meanwhile in a small saucepan, bring lemon juice and sugar to
+a boil and cook for a few minutes. Remove from heat and cool slightly.
+7. When muffins come out of the oven, poke a few holes in each muffin 
+with a toothpick. Spoon syrup over muffin tops and allow to soak into
+ the muffins. Cool and remove from pan.
+
+\pagebreak
+
+## Candy Cane Cupcakes
+
+### Cole Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+Batter:
+
+\begin{multicols}{2}
+
+•   1/4 cup unsalted butter, melted
+
+•   1/2 cup canola oil
+
+•   1/2 cup granulated sugar
+
+•   1/2 cup brown sugar
+
+•   2 tsp. vanilla
+
+•   2 oz. 60% bittersweet chocolate, melted
+
+•   2 eggs and 2 yolks
+
+•   1 cup flour
+
+•   1/2 cup unsweetened cocoa powder
+
+•   1/2 tsp. salt
+
+•   1/2 tsp. baking soda
+
+•   1/2 cup full fat sour cream or buttermilk
+
+•   1/2 cup hot water 
+
+• 1/2 cup espresso powder
+
+\end{multicols}
+
+Ganache:
+
+\begin{multicols}{1}
+
+•   1 cup semi sweet chocolate chips
+
+•   1/2 cup milk chocolate chips
+
+•   1/2 cup heavy cream
+
+
+\end{multicols}
+
+Frosting;
+
+\begin{multicols}{3}
+
+•   1 cup butter, room temperature
+
+•   1 tsp. vanilla
+
+•   1½ tsp. peppermint extract
+
+•   Pinch of salt
+
+•   3-4 Tbsp. heavy cream
+
+•   Green food colouring
+
+•   1/4 cup crushed candy cane
+
+\end{multicols}
+
+> Methods on next page.
+
+\pagebreak
+
+**Methods**
+
+Batter:
+
+1.  Preheat oven to 350°F. Line cupcake tins with 18 liners.
+2.  Beat butter, oil, sugars, vanilla extract and melted chocolate until smooth. Add eggs one at a time until incorporated.
+3.  Whisk together flour, cocoa powder, salt, and baking soda.
+4.  Gradually add dry ingredients to the wet ingredients along with sour cream or buttermilk. Add warm espresso mixture. **Allow to rest for 5 minutes**.
+5.  Divide batter evenly among 18 cups.
+6.  Bake for 17-20 minutes or until tops spring back when gently pressed and when a cake tester comes out clean. Allow to cool for 5 minutes and then transfer to a wire rack.
+
+Ganache:
+
+1.  Combine chocolate chips and heavy cream.
+2.  Microwave on half power for 1 minute, stir, and repeat until all chocolate chips are melted and it is smooth. Beat for 1 minute and then spoon over cupcakes.
+
+Frosting:
+
+1.  Beat butter until smooth; add vanilla, peppermint extract, salt and powdered sugar.
+2.  Add heavy cream and beat for 2-3 minutes until the frosting is light and fluffy.
+3.  Add food coloring and swirl together.
+4.  Sprinkle with crushed candy cane (put in bag and use a hammer to crush).
+5.  Pipe frosting on top of cupcakes.
+
+\pagebreak
+
+# Cakes
+
+![](cake.png)
+
+\pagebreak
+
+## Puffed Wheat Cake
+
+### Alice Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1 cup brown sugar
+
+•   1/2 cup margarine
+
+•   1/2 cup syrup or honey
+
+•   2 tsp. cocoa
+
+•   1 tsp. vanilla
+
+•   10 cups puffed wheat
+
+\end{multicols}
+
+**Methods**
+
+1.  Add brown sugar, margarine, syrup (or honey) and cocoa to a saucepan and bring to a boil.
+2.  Add vanilla.
+3.  Add to puffed wheat in a large bowl; mix and spread in a 9x13 pan.
+4.  Refrigerate and let rest before serving.
+
+## Puffed Wheat Cake
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 1/2 cup margarine
+
+• 1/2 cup syrup
+
+• 1 cup brown sugar
+
+• 2 tap vanilla
+
+• 9 cups puffed Wheat
+
+• 1½  Tbsp. cocoa
+
+\end{multicols}
+
+**Methods**
+
+1. Melt Margarine, syrup, brown sugar, vanilla and cocoa in a 
+sauce pan and boil for just a couple  of min. 
+2. Stir in puffed wheat and make sure it is all coated. 
+3. Spread into a well buttered 9 x 13 in. pan and cool.
+
+\pagebreak
+
+## 1-2-3-4 Cake
+
+### Bev Walters (Red River Valley Lodge) {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1 cup butter
+
+•   2 cups sugar
+
+•   2 cups flour
+
+•   4 eggs
+
+•   1 cup milk
+
+•   3 tsp. baking powder
+
+•   1 tsp. vanilla
+
+
+\end{multicols}
+
+**Methods**
+
+1.  Cream butter and sugar, beat in eggs and vanilla.
+2.  Sift flour and baking powder add alternately with milk.
+3.  Grease and flour the bottom of a 9 x 13 in. pan.
+4.  Bake at 350°F for about 35 min. check with tooth pick.
+
+## Easy Black Forest Cake
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1 chocolate cake mix
+
+•   2 cans of cherry pie filling
+
+•   1 large bucket of whipped cream
+
+•   Small amount of chocolate pudding
+
+\end{multicols}
+
+**Methods**
+
+1.  Prepare cake mix as directed.
+2.  Add cherry pie filling on top; top with whipped cream.
+3.  Drizzle chocolate pudding on top.
+
+\pagebreak
+
+## Pumpkin Cheesecake
+
+### Cole Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1 tsp. butter, softened
+
+•   1¼ cups graham cracker crumbs
+
+•   1 tsp. ground cinnamon
+
+•   1/4 cup white sugar
+
+•   1/4 cup melted butter
+
+•   2 pounds cream cheese, softened
+
+•   1½ cups white sugar
+
+•   3 eggs
+
+•   1 cup heavy whipping cream
+
+•   2 (16 ounce) cans solid-pack pumpkin
+
+•   2 tsp. vanilla extract
+
+•   1 Tbsp. pumpkin pie spice
+
+•   1 (16 ounce) container sour cream
+
+•   1/2 cup white sugar
+
+•   2 tsp. vanilla extract
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven to 300°F. Brush the inside of a 10-inch spring form pan with 1 tsp. softened butter.
+2.  Mix graham cracker crumbs, cinnamon, 1/4 cup white sugar, and 1/4 cup melted butter together in a bowl until incorporated. Press mixture into the bottom of the spring form pan.
+3.  Beat cream cheese and 1½ cup white sugar together in a bowl until smooth. Add eggs, 1 at a time, blending in each egg before adding the next. Stir in cream, pumpkin, 2 tsp. vanilla extract, and pumpkin pie spice until thoroughly blended. Pour cream cheese mixture over the graham cracker crust.
+4.  Bake in the preheated oven until cheesecake is set in the middle, 1½ hours. Remove from oven and let rest for 10 minutes, or leave on oven rack with door ajar for up to several hours.
+5.  Beat sour cream, 1/2 cup sugar, and 2 tsp. vanilla extract together in a bowl until smooth. Pour sour cream topping over cheesecake. Chill in refrigerator before removing sides of pan, about 3 hours.
+
+\pagebreak
+
+## Irma's Cheesecake 
+
+### Irma Gluck {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 2 cups graham wafer crumbs
+
+• 1 Tbsp. white sugar
+
+• 1/2 cup butter, melted
+
+• 8 ounces cream cheese, room temperature
+
+• 1 cup white sugar
+
+• 2 package dream whip
+
+• 1 cup milk
+
+• 2 tsp. vanilla
+
+• 2 small (85g) lemon jello
+
+\end{multicols}
+
+
+**Methods**
+
+1. Dissolve 2 small pkg. lemon jelly powder in 2 cups boiling water.
+Cool until it starts to gel.
+2. Mix the 2 cups of graham wafer crumbs with 1 Tbsp. sugar and 
+1/2 cup melted butter....Blend....set aside 1/2 cup crumbs for topping.
+3. Press into 9 x 13 in. pan and bake @ 375 * LET COOL!!!
+4, Take 8 oz. cream cheese and mix it  with 1 cup white sugar and 2 tsp.
+vanilla.
+5. Beat 2 small pkg. dream whip with 1 cup milk.
+6. Mix cream cheese and dream whip mixtures together with jelly and 
+beat.
+7. Pour over graham wafer base and sprinkle the 1/2 cup crumbs over the top.
+8. Set in fridge at least 6 hours or overnight.
+
+## Oreo Cheesecake
+
+### Vanessa Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 1 box Oreo cookie crumbs
+
+• 2/3 cup margarine, melted
+
+• 1 250g pkg. cream cheese
+
+• 2 cups icing sugar
+
+• 1 liter cool whip
+
+• 1 28 oz. can pineapple, crushed
+
+\end{multicols}
+
+**Methods**
+
+1. Set aside 1/4 cup of Oreo cookie crumbs for topping. 
+2. Mix the rest of the crumbs with melted margarine and press into a 9x13 in. pan. 
+3. Beat cream cheese with icing sugar until fluffy and slowly add cool whip and drained pineapple.
+4. Spread evenly in the pan on top of the crumbs. Sprinkle with the remaining crumbs. 
+5. Refrigerate until ready to serve.
+
+\pagebreak
+
+## Devil's Food Cake
+
+### Darlene & Sarah Derksen {.unlisted .unnumbered}
+
+**Ingredients**
+
+• 1 2/3 cups flour
+
+• 1 1/2 cups sugar
+
+• 1 1/4 tsp. baking soda
+
+• 1 tsp. salt
+
+• 1/2 cup cocoa
+
+• 1/2 cups soft shortening or butter or margarine
+
+• 1 cup milk
+
+• 1 tsp. vanilla
+
+• 3 eggs
+
+**Methods**
+
+1. Sift dry ingredients into bowl. 
+2. Add shortening, milk and vanilla. 
+3. Beat for 2 minutes; scrape sides and bottom. 
+4. Add eggs; beat 2 more minutes. 
+5. Bake for 38 minutes at 350°F. Makes a large pan.
+
+> Optionally top with white icing and coconut. 
+
+\pagebreak
+
+## Moist Chocolate Cake & Frosting
+
+### Cole Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+Cake:
+
+\begin{multicols}{2}
+
+• 1¾ cups all purpose flour
+
+• 2 cups granulated white sugar
+
+• 3/4 cup unsweetened cocoa powder
+
+• 1½ tsp. baking soda
+
+• ¾ tsp. salt
+
+• 2 large eggs
+
+• 1 cup buttermilk 
+
+• 1/2 cup butter melted
+
+• 1 Tbsp. vanilla extract
+
+• 1 cup hot coffee
+
+\end{multicols}
+
+Frosting:
+
+• 340g dark/bittersweet chocolate 60-70% cocoa, chopped
+
+• 227g unsalted butter room temperature
+
+• 1/4 cup cocoa powder either natural or dutch process are fine
+
+• 1/2 cup icing sugar
+
+• A pinch salt
+
+• 1 Tbsp. vanilla extract
+
+• 1/4 cup whipping cream
+
+> *See next page for methods.*
+
+\pagebreak
+
+**Methods**
+
+Cake:
+
+1. Preheat oven to 350ºF. Grease and flour two 9-inch baking pans (or line with parchment paper circles) and set aside.
+2. In the large bowl of a standing mixer, combine flour, sugar, cocoa, baking soda, and salt on low speed for one minute.
+3. Add eggs, buttermilk, melted butter and vanilla extract and beat on medium speed until batter forms, about 30 seconds. Pause to scrape down sides and bottom of mixer bowl as well as the paddle. Beat 15 seconds more, until mixture is mostly smooth.
+4. Remove bowl from mixer and stir in hot coffee with a rubber spatula. Batter will be very runny.
+5. Pour batter evenly between the two pans and bake on middle rack of oven for 25-35 minutes, until thermometer inserted in the middle reaches 190ºF.
+6. Allow to cool 15 minutes in pans, then run a butter knife around the edges of each cake. Line two cooling racks with parchment paper. (See note)
+7. Place a cooling rack over top of each pan. Wearing oven mitts, use both hands to hold the racks in place while flipping the cakes over onto the racks. Set the racks down and gently thump on the bottom of the pans until the cakes release. Cool completely before handling or frosting.
+
+Frosting:
+
+1. Melt the chocolate in the microwave on 50% power in 30 second increments, stirring each time - stop when it's about 70% melted, and stir vigorously to melt the rest. In my microwave, it took a total of 2 1/2 minutes. (Alternatively, melt in a heat-proof bowl set over a saucepan of simmering water - careful not to get a single drop of water in the bowl, or chocolate will seize). Allow chocolate to cool to room temperature.
+2. Combine butter, cocoa powder, confectioners' sugar and salt in a stand mixer fitted with the whisk attachment. Beat on medium speed until well combined, about a minute. Reduce speed to low and incorporate vanilla extract, whipping cream and cooled chocolate, then turn speed back up to medium and beat for about 5 minutes, until pale and very fluffy. Pipe (I used Wilton Large Open Star tip) or spread onto fully cooled cake or cupcakes.
+3. Frosting may be made up to 48 hours in advance - refrigerate until needed, then bring back to room temperature and beat again for a minute or two before using. Frosted cake may be stored at room temperature for up to two days - if it'll take you longer to eat, god bless your willpower and store the cake in the fridge.
+
+\pagebreak
+
+# Brownies
+
+![](Brownies.jpg)
+
+\pagebreak
+
+## Chocolate Brownies
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1/2 cup butter
+
+•   2 egg yolks
+
+•   1/2 tsp. baking powder
+
+•   1/2 cup flour
+
+•   1 tsp. vanilla
+
+•   1 cup brown sugar
+
+•   2 egg whites
+
+•   4 Tbsp. cocoa
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven to 325°F.
+2.  Cream butter and add sugar and egg yolks one at a time, mixing between each addition.
+3.  Mix dry ingredients well in another bowl then add to wet mixture; fold to mix.
+4.  Fold in well-beaten egg whites
+5.  Bake for 25-30 minutes and ice with favourite icing while until warm.
+
+## Buttermilk Brownies 
+
+### Bev Cornelson {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+Brownie:
+
+• 1 cup margarine
+
+• 1 cup water
+
+• 1/3 cup coca 
+
+• 2 cups cocoa
+
+• 2 cups sugar
+
+• 1 tsp. baking soda
+
+• 1/2 tsp. salt 
+
+• 2 eggs, slightly beaten
+
+• 1/2 cup buttermilk 
+
+• 1½ tsp. vanilla
+
+\end{multicols}
+
+Frosting:
+
+\begin{multicols}{3}
+
+• 1/4 cup butter 
+
+• 3 Tbsp. cocoa 
+
+• 3 Tbsp. buttermilk 
+
+• 2¼ cups icing sugar 
+
+• 1/2 tsp. vanilla
+
+\end{multicols}
+
+**Methods**
+
+1. Boil together margarine, water and cocoa. 
+2. In a large bowl, stir together flour, sugar, soda and salt. 
+3. Stir in eggs, buttermilk and vanilla. 
+4. Add cocoa mixture, mix and pour into a cookie sheet. 
+5. Bake at 375°F for 20 minutes. Frost immediately after removing from the oven. Let cool and cut.
+6. For the frosting, boil butter, cocoa and buttermilk; beat in icing sugar and vanilla. 
+
+\pagebreak
+
+## Killer Brownies
+
+### Niles Madison {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 1 pkg. chocolate cake mix
+
+• 2⅓ cups evaporated milk 
+
+• 2 cups chocolate chips
+
+• 40 caramels 
+
+• 3/4 cup melted butter
+
+\end{multicols}
+
+> Freeze caramels first to get the wrappers off easier.
+
+**Methods**
+
+1. Heat oven to 325°F. 
+2. Mix butter, 1/3 cup evaporated milk and cake mix.
+3. Spread 1/2 mixture into 13x9 pan. 
+4. Bake 10 to 11 minutes. 
+5. While baking, melt caramels with 1/3 cup evaporated milk until smooth (if it burns a bit, do not worry). 
+6. Remove cake from oven. 
+7. Sprinkle 1/2 of chocolate chips over partially cooked base and cover with caramel. 
+8. Sprinkle the rest of the chocolate chips. 
+9. Cool until caramel is tacky; spread batter over rest of cake. 
+10. Bake 20 minutes. 
+11. Cut into squares when completely cool. 
+
+\pagebreak
+
+# Buns
+
+![](buns.png)
+
+\pagebreak
+
+## Land of Nod Cinnamon Buns
+
+### Vanessa Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   20 frozen dough balls
+
+•   1 cup brown sugar
+
+•   1/4 cup vanilla instant pudding
+
+•   2 Tbsp. cinnamon
+
+•   3/4 cup raisins
+
+•   1/2 cup melted butter or margarine
+
+\end{multicols}
+
+**Methods**
+
+1.  Mix brown sugar, vanilla instant pudding, cinnamon and melted butter in a bowl.
+2.  Spread dough balls in a greased bundt pan.
+3.  Spread mixture over dough balls.
+4.  Sprinkle raisins over dough balls if desired.
+5.  Let rise overnight.
+6.  Bake at 350°F for 25 minutes.
+7.  Let cool for 5 minutes then tip out of bundt pan and serve.
+
+## Butterhorn Rolls
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   3 cups flour
+
+•   2 eggs, well beaten
+
+•   1/8 cup sugar
+
+•   1/2 cup canola oil
+
+•   2½ cups Water
+
+•   2 Tbsp. yeast
+
+•   1 tsp. salt
+
+\end{multicols}
+
+**Methods**
+
+1.  Mix together eggs, flour, sugar, oil and water. Attach beaters and splash ring, mix until well blended. Then add salt, yeast, and 1 cup of white flour. Beat until well blended. Remove beaters.
+2.  Attach dough hook and splash ring. Add enough flour until the sides of the bowl come clean. Knead at low speed for 7 min.
+3.  You can now divide the dough into 6 or 8 parts depending what size you want the rolls.
+4.  Roll each piece into the size of a pie crust. Cut into eight sections and roll narrow side up. Place in sprayed (PAM) cookie sheet and let rise.
+5.  Bake at 400°F for about 13-15 min.
+
+\pagebreak
+
+## Cinnabon Cinnamon Rolls 
+
+### Cole Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+Dough:
+
+\begin{multicols}{2}
+
+• 4 cups  all-purpose flour 
+
+• 1/2 cup granulated sugar
+
+• 3/4 tsp. fine sea salt
+
+• 1/3 cup  butter
+
+• 1 cup lukewarm milk
+
+• 2¼ tsp. (7g) instant yeast 
+
+• 2 eggs
+
+• 1 egg yolk 
+
+\end{multicols}
+
+
+Filling: 
+
+\begin{multicols}{2}
+
+• 1 cup brown sugar
+
+• 1 Tbsp. muscovado sugar 
+
+• 2½ Tbsp. cinnamon
+
+• 1/3 cup butter
+
+\end{multicols}
+
+
+Vanilla Cream Cheese Glaze:
+
+\begin{multicols}{2}
+
+• 4 oz. cream cheese
+
+• 3/4 cups powdered sugar 
+
+• 3 tsp. vanilla 
+
+• 3 Tbsp. (45ml) milk 
+
+\end{multicols}
+
+> *See next page for methods.*
+
+\pagebreak
+
+**Methods**
+
+1. In a stand mixer bowl or by hand, whisk together all-purpose flour, granulated sugar, and fine sea salt. 
+2. Add in softened unsalted butter. Blend in using two forks. 
+3. In a separate container, whisk together lukewarm whole milk and instant yeast. 
+4. Using the dough hook attachment set on medium-low speed, add in yeast mixture, whole eggs, and egg yolk. Mix for 2-3 minutes. If mixing by hand, fold together the ingredients with a spatula.
+5. On a lightly floured work surface and knead for 30-60 seconds. If kneading by hand, kneed for about 20 minutes by folding over the dough again and again. Plop into a greased bowl and cover with plastic wrap, let rise for 90 minutes. 
+6. Once dough is ready, mix together brown sugar, muscovado sugar (optional), and cinnamon. 
+7. Dump dough out onto a lightly floured surface flattening it into a large rectangle. 
+8. Spread softened unsalted butter across the whole rectangle then sprinkle the cinnamon sugar evenly across the whole dough.
+9. Tightly roll from the bottom all the way to the top. Slice into 2” thick segments.
+10. Grease a 9x13 baking dish, line the bottom of the pan with rolls and cover with plastic wrap once filled. Let rise at room temperature for 30-45 minutes. **You can also let rise overnight in the fridge and bake in the morning**.
+11. Bake in a 375°F preheated oven for 15-20 minutes. Let cool in the container for 15 minutes. 
+12. For the filling, beat together cream cheese then blend in powdered sugar until smooth. Whisk in whole milk until smooth then add in half scraped vanilla bean and whisk together. 
+13. Drizzle the glaze on top of the cinnamon rolls and serve.
+
+\pagebreak
+
+## Brown Buns
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   2 cups whole wheat flour
+
+•   1 cup wheat bran
+
+•   1/8 cup brown sugar
+
+•   1/8 cup golden flax, ground
+
+•   2 eggs
+
+•   1/3 cup canola oil
+
+•   1 tsp. salt
+
+•   2 Tbsp. yeast
+
+•   2½ cups water
+
+•   About 2-4 cups white flour
+
+\end{multicols}
+
+**Methods**
+
+1.  In a bowl or dough machine mix whole wheat flour, bran, brown sugar, flax, eggs, oil and water.
+2.  Attach beaters and splash ring mix until blended well blended then add salt, yeast and 1 cup white flour, beat until well mixed. Remove beaters.
+3.  Attach dough hook and slash ring knead on low speed add enough white flour until the sides of the bowl come clean. Knead for 9 min. at low speed.
+4.  Spay cookie sheets with pam, you are now ready to form buns. When you are finished forming the buns cover them with a tea towel and light plastic. Let rise to double in bulk in a warm draft free place.
+5.  Bake at 400°F for 10-15 minutes.
+
+\pagebreak
+
+# Bread
+
+![](bread.png)
+
+\pagebreak
+
+## Dutch Oven Bread
+
+### Darlene Derksen {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 4 cups white flour
+
+• 1½ tsp. salt
+
+• 1½ tsp. dry active yeast
+
+• 1½ tsp. honey
+
+• 2 Tbsp. canola oil
+
+\end{multicols}
+
+**Methods**
+
+1. Add yeast to 2 cups of warm (not hot) water.
+2. Add honey to the yeast mixture and stir.
+3. Let yeast activate for a few minutes (up to 10).
+4. Mix flour and salt in a large bowl thoroughly but gently.
+5. Add activated yeast mixture to flour mixture and fold together gently, until flour mixture is incorporated.
+6. Add the oil to the mixture and continue to fold until incorporated.
+7. Cover bowl and let rise in the oven (turned off) with just the oven light turned on for a minimum of 3 hours.
+8. After rising, place risen bread on a wooden board with some flour to prevent sticking and gently fold a few times.
+9. Place bread dough back into bowl and let rise out of the oven covered for 25 minutes.
+10. Pre-heat oven to 425°F and put dutch oven in the oven.
+11. After the second rising, take the hot dutch oven out of the oven and spray the bottom and sides with cooking oil.
+12. Place bread dough into the hot dutch oven and cut hash marks into the bread.
+13. Brush dough with the oil of your choice.
+14. Cover and bake for 25 minutes at 425°F.
+15. Bake uncovered for an additional 10 minutes to form the crust.
+16. Remove and let cool.
+
+> To make whole wheat versions, either substiting half of the flour for whole wheat or all of it, use slightly more water and yeast. 
+
+\pagebreak
+
+## Brown Bread
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   3 cups wheat bran
+
+•   2 eggs
+
+•   1/2 cup canola oil
+
+•   1/8 cup brown sugar
+
+•   5 cups whole wheat flour
+
+•   1/4 cup golden flax, ground
+
+•   1/4 cup red river cereal, ground
+
+•   3½ cups water, warm
+
+•   1½ tsp. salt
+
+•   2½ Tbsp. yeast
+
+•   About 2-4 cups white flour
+
+\end{multicols}
+
+**Methods**
+
+1.  In a bowl or mixing machine, mix wheat bran, eggs, oil, brown sugar, whole wheat flour, flax, Red River cereal and water.
+2.  Attach beaters and splash cover mix until well blended then add salt, yeast and 1 cup whole wheat flour, beat until well blended. Remove beaters.
+3.  Attach dough hook and splash cover. Kneed on low speed. Add enough white flour until the sides of the bowl come clean. Knead for 9 min. at low speed.
+4.  You can now separate the dough into 6 parts and form each into a loaf. Spray pans with cooking oil and cut 3 slits on top of loaves.
+5.  Let rise until double in bulk.
+6.  Bake at 350°F for 35 minutes.
+
+\pagebreak
+
+## Rye Bread
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 1 cup dark rye flour
+
+• 3 cups whole wheat flour
+
+• 1/8 cup brown sugar
+
+• 1/2 cup red river cereal
+
+• 1/2 cup wheat bran
+
+• 1 cup ground golden flax 
+
+• 4 Tbsp. oil
+
+• 3 Tbsp. vinegar
+
+• 2 eggs
+
+• 3 cups Water, warm
+
+• 2½ Tbsp. yeast, instant
+
+• 2 tsp. salt
+
+• About 2-4 cups white flour
+
+• Cornmeal
+
+\end{multicols}
+
+**Methods**
+
+1. Place all ingredients except the, cornmeal, yeast, 
+and all-purpose white flour into a bread machine or bowl.
+2. Begin kneading at low speed. While kneading sprinkle with yeast, 
+then slow add the flour.
+3.  When the right amount of flour has been added, dough will come
+ clean from sides of bowl. Knead for 9 minutes on low or by hand to develop gluten.
+4. With oiled hands remove dough from bowl to oiled surface. Divide 
+into 4 even parts. Knead and shape each part into  a round loaf
+ and place on pans sprinkled with cornmeal.
+5. Cut slashes 1/4 in.deep diagonally across each loaf. Cover and let
+ rise until double.
+ 6. Bake for 25 minutes at 375°F.
+
+\pagebreak
+
+## Icelandic Brown Bread
+
+### Mavis Fedorchuk {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   2½ cups water
+
+•   1/2 cup fancy molasses
+
+•   4 tsp. canola oil
+
+•   1/2 cup brown sugar
+
+•   2 cups whole wheat flour
+
+•   1 cup rye flour
+
+•   3½ cups white flour
+
+•   2 tsp. salt
+
+•   2½ Tbsp. yeast
+
+\end{multicols}
+
+**Methods**
+
+1.  Mix molasses, oil, brown sugar, whole wheat flour, rye flour and water.
+2.  Attach beaters and splash ring, mix until well blended then add salt, yeast, Beat until well mixed, remove beaters.
+3.  Attach dough hook and splash ring. Slowly add the white flour to finish dough, add enough flour until bowl comes clean. Knead at low speed for 9 min.
+4.  Form into 3-4 loaves depending on size of pan. Let rise until double in bulk. Bake in 350 F for 20 minutes.
+
+\pagebreak
+
+## Zucchini Bread
+
+### Alice Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   3 eggs
+
+•   2 cups sugar
+
+•   1 cup oil
+
+•   2 tsp. vanilla
+
+•   3 cups flour
+
+•   1 tsp. salt
+
+•   1 tsp. baking soda
+
+•   1 tsp. baking powder
+
+•   1 tsp. cinnamon
+
+•   1 cup coconut
+
+•   2 cups grated zucchini
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven at 350°F.
+2.  Mix sugar, oil, eggs and vanilla.
+3.  In a separate bowl mix flour, salt, baking soda, baking powder, cinnamon and coconut.
+4.  Add the dry ingredients to the wet and fold to mix.
+5.  Add in grated zucchini and fold to mix.
+6.  Divide batter evenly between two loaf pans.
+7.  Bake for 45 minutes.
+
+## Chocolate Chip Zucchini Bread
+
+### Sandy Dyck {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   3 eggs
+
+•   2 cups white sugar
+
+•   1 cup vegetable oil
+
+•   1 tsp. salt
+
+•   1 tsp. vanilla
+
+•   2 cups shredded zucchini
+
+•   2 cups full fat sour cream
+
+•   1 tsp. cinnamon
+
+•   1 tsp. baking soda
+
+•   1/2 tsp. baking powder
+
+•   3 cups flour
+
+•   1 cup chocolate chips
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven to 350°F.
+2.  Beat eggs, sugar, vanilla and oil together.
+3.  Blend in zucchini and sour cream.
+4.  Mix in flour, baking powder, baking soda, salt and cinnamon.
+5.  Stir in chocolate chips.
+6.  Pour into three greased loaf pans and bake for 50 minutes.
+
+\pagebreak
+
+## Chocolate Orange Zucchini Bread
+
+### Tastes of Manitoba {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   3 cups flour
+
+•   2 tsp. baking powder
+
+•   1 tsp. baking soda
+
+•   1 tsp. salt
+
+•   1/2 tsp. cinnamon
+
+•   1 tsp. nutmeg
+
+•   3 eggs
+
+•   2 cups sugar
+
+•   1 cup canola oil
+
+•   2 tsp. vanilla
+
+•   2 cups zucchini
+
+•   1 cup chocolate chips
+
+•   1 Tbsp. orange rind, grated
+
+\end{multicols}
+
+**Methods** 
+
+1. Preheat oven 350°F. 
+2. In large bowl, sift together flour, baking soda, baking powder, salt, cinnamon, and nutmeg. 
+3. In second bowl, whisk together eggs, sugar, canola oil, and vanilla until well combined. 
+4. Add dry ingredients to canola oil mixture along with zucchini, chocolate chips and orange rind. 
+5. Pour batter into two greased 9x5 loaf pans. Bake for 50-55 minutes or until toothpick inserted in the center of loaf comes out clean. Let loaves cool for 10 min. in pans and continue to cool on wire racks.
+
+\pagebreak
+
+## Lemon Zucchini Loaf
+
+### Mavis Fedorchuk {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 2 cups zucchini, grated
+
+• 4 cups flour
+
+• 1 Tbsp. baking powder
+
+• 1½ tsp. baking soda
+
+• 1 tsp. salt
+
+• 1 package lemon pudding
+
+• 1/2 cup poppy seeds
+
+• 1 lemon grated, and juice
+
+• 1 tsp. lemon extract
+
+• 4 eggs
+
+• 1¼ cups canola oil
+
+• 1½ cups sugar
+
+• 1¼ cups milk
+
+\end{multicols}
+
+
+**Methods**
+
+1. Grease 2 large loaf pans or a bunt pan.
+2. Measure grated zucchini, lemon peel and juice. Measure all dry
+ingredients into a large bowl. Stir until well blended.
+3. Beat sugar, eggs, milk, lemon juice, extract and oil. Pour
+into dry ingredients. Add zucchini, lemon peel and poppy seeds.
+4. Stir until all ingredients are moist. Spoon into loaf pans.
+5. Bake at 325°F for 1 hour and 10 min.
+
+\pagebreak
+
+## White Bread and Buns
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 4 cups white flour 
+
+• 3 eggs
+
+• 1/2 cup canola oil
+
+• 1/8 cup white sugar
+
+• 1 tsp. salt
+
+• 2½ Tbsp. yeast
+
+• 3½ cups water
+
+\end{multicols}
+
+**Methods**
+
+1. To a machine or bowl add 3 cups white flour, 3 eggs, 1/2 cup canola oil, 1/8 cup white sugar and 3½ cups water. 
+2. Attach beaters and splash ring mix until well blended, then add salt, yeast
+and 2 cups of white flour beat until well mixed. Remove beaters. Alternatively mix by hand.
+3. Attach dough hook and splash ring. Knead on low speed. Add enough flour until the sides of the bowl come clean. Knead at low speed for 7 min. Alternatively kneed by hand for 20 min.
+4. You can now separate the dough into 6 parts and form each into a loaf. Let rise to double in bulk.
+5. Instead of bread, you can make about 4 doz. buns. Bake at 400°F for 12 to 15 min. 
+6. Bake loaves at 350°F for 35 min. 
+
+\pagebreak
+
+# Bars, Crisps, Tarts and Crackers
+
+![](misc.png)
+
+\pagebreak
+
+## Sucre à la Crème
+
+### Alice Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   2 Tbsp. butter
+
+•   2 Tbsp. whipping cream
+
+•   4 cups brown sugar
+
+•   3 Tbsp. corn syrup
+
+\end{multicols}
+
+**Methods**
+
+1.  Mix ingredients together and boil to 234°F.
+2.  Immediately remove from heat and stir until sugar crystals form around pan.
+3.  Pour in a buttered cake pan, about 1 inch thick.
+4.  Cut into squares while until warm.
+
+## Chocolate Wafer Desert
+
+### Ellie Keck {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1 package white marshmallows
+
+•   1 cup water
+
+•   4 tsp. instant coffee
+
+•   1 package plus 15 wafers
+
+•   1/4 cup melted butter
+
+•   500 ml whipping cream
+
+•   Shaved chocolate
+
+\end{multicols}
+
+**Methods**
+
+1.  Melt a package of white marshmallows with 1 cup of water and 4 tsp. of instant coffee. Let cool.
+2.  Crush all but 15 wafers.
+3.  Add 1/4 cup melted butter to the crushed wafers and pat into the bottom of a spring form pan.
+4.  Place whole wafers all around outside edges.
+5.  Whip 500 ml of whipping cream with cooled marshmallow mixture.
+6.  Pour over wafer base in pan; sprinkle shaved chocolate over top and freeze.
+7.  Thaw 1 hour before serving.
+
+\pagebreak
+
+## Dill Mix
+
+### Patty Alatulu {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1 box Crispix cereal
+
+•   1 box Ritz crackers
+
+•   3/4 cup oil
+
+•   1 package ranch powder
+
+•   1 Tbsp. dill
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven to 250°F.
+2.  Combine crackers, cereal and oil. Add ranch powder and dill; mix well.
+3.  Lay on cookie sheet and bake for 45 minutes.
+
+## Nuts and Bolts
+
+### Alice Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   1 pkg. cheerios
+
+•   1 pkg. pretzels
+
+•   1 pkg. Shreddies
+
+•   1 pkg. cheese bits/nips
+
+•   1 tsp. onion salt
+
+•   1 tsp. celery salt
+
+•   1 tsp. garlic salt
+
+•   1/3 cup Worcestershire sauce
+
+•   1 lb. butter
+
+\end{multicols}
+
+> Note: You can use any boxed cereal or cracker in this recipe.
+
+**Methods**
+
+1.  Preheat oven to 250°F.
+2.  Mix all crackers/cereals in a large roaster.
+3.  Melt butter; add spices and Worcestershire sauce; spread over dry mixture and mix well.
+4.  Bake for 1 hour with lid on, mixing once every 15 minutes.
+5.  Lower temperature to 200°F and bake for an hour with the lid off, mixing once every 15 minutes.
+
+\pagebreak
+
+## Strawberry Rhubarb Crisp
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   3 cups rhubarb 
+
+•   3 cups strawberries 
+
+•   1 cup sugar
+
+•   1/3 cups flour
+
+•   1/2 tsp. cinnamon
+
+•   1 cup brown sugar
+
+•   1 cup old fashioned oats
+
+•   1 cup flour
+
+•   1/4 tsp. nutmeg
+
+•   1/2 cup butter, melted
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven at 350°F.
+2. Cut up strawberries and rhubarb into small pieces.
+3.  Combine rhubarb, strawberries, sugar, 1/3 cup flour and cinnamon and put into a greased 2 quart baking dish. Allow to rest while preparing the topping (step 4). 
+4.  Combine flour, brown sugar, rolled oats, nutmeg and melted butter. Sprinkle over the rhubarb mixture and pat gently.
+5.  Bake for 35-40 minutes.
+
+## Rhubarb Crisp
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   8 cups rhubarb 
+
+•   1 cup sugar
+
+•   1/4 cup flour
+
+•   1/2 tsp. cinnamon
+
+•   1 cup brown sugar
+
+•   1 cup flour
+
+•   1/2 cup old fashioned oats
+
+•   1/4 tsp. nutmeg
+
+•   1/2 cup butter, melted
+
+\end{multicols}
+
+**Methods**
+
+1.  Preheat oven at 375°F. Cut rhubarb into small pieces.
+2.  Combine rhubarb, sugar, 1/4 cup flour and cinnamon and put into a greased 2 quart baking dish.
+3.  Combine flour, brown sugar, rolled oats, nutmeg and melted butter. Sprinkle over the rhubarb mixture and pat gently.
+4.  Bake for 35-40 minutes.
+
+\pagebreak
+
+## Pumpkin Dessert 
+
+### Ellie Edel {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   2 cups graham crumbs
+
+•   1/4 cup sugar
+
+•   1/2 cup margarine, melted
+
+•   2 eggs
+
+•   1/2 cup sugar
+
+•   8 oz. cream cheese softened
+
+•   2 cups pure pumpkin
+
+•   3 egg yolks, beaten
+
+•   1/2 cup sugar
+
+•   1/2 cup milk
+
+•   1/2 tsp. salt
+
+•   1 Tbsp. cinnamon
+
+•   1 package plain gelatin
+
+•   1/4 cup cold water
+
+•   3 egg whites
+
+•   1/4 cup sugar
+
+\end{multicols}
+
+**Methods**
+
+1. Mix crumbs, sugar, and margarine, press into 9 x 13 in pan.
+2. Mix eggs, sugar and cream cheese, beat until smooth, pour over base.
+Bake 20 min. at 350°F.
+3. In a saucepan mix pumpkin, eggs yolks, sugar, milk, salt and cinnamon 
+and boil until mixture thickens. Remove from heat and add gelatin that has
+ been dissolved in cold water and let cool.
+4. Beat egg whites and sugar, fold into pumpkin mixture. Pour over cooled 
+baked crust / creamed cheese.
+5. Top with your choice (e.g., dream whip, cool whip or whipping cream).
+
+\pagebreak
+
+## Butter Tarts 
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+Crust:
+
+\begin{multicols}{2}
+
+• 1 lb. of lard
+
+• 5 cups flour
+
+• 1 cup milk
+
+• Pinch of salt
+
+\end{multicols}
+
+Filling:
+
+\begin{multicols}{2}
+
+• 8 eggs, beaten
+
+• 4 cups brown sugar
+
+• 4 tsp. vanilla extract
+
+• 4 tsp. butter
+
+• 1/2 cup syrup
+
+• Pinch of salt
+
+• 4 cups raisins or chocolate chips
+
+\end{multicols}
+
+**Methods**
+
+
+1. Mix lard and flour until it resembles course crumbs. Slowly add cold milk, mixing with a fork until dough is evenly moistened and just holds together.
+2. Line muffin pans with pastry.
+3. Combine ingredients. Fill tart shells of pastry 2/3 full of mixture.
+4. Bake until filling is set and pastry baked. it varies with different 
+ovens and fillings.
+5. In light pans bake at 375°F for about 15-20 min. or until done.
+6. In dark pans bake at 350°F for about 15-20 min. or until done
+
+> This makes about 66 tarts.
+
+\pagebreak
+
+## Rhubarb Matrimonial Bars
+
+### Simone Gagnon {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 3-4 cups rhubarb, chopped
+
+• 1 cup sugar
+
+• 2 Tbsp. cornstarch
+
+• 1 tsp. vanilla
+
+• 1½ cups rolled oats
+
+• 1½ cups flour
+
+• 1/2 tsp. baking soda
+
+• 1 tsp. baking powder
+
+• 1/4 tsp. salt
+
+• 1 cup brown sugar
+
+• 1 cup butter
+
+\end{multicols}
+
+**Methods**
+
+1. Combine filling ingredients and cook in saucepan over medium heat
+ until thick.
+2. Combine crust ingredients and pat 2/3 mixture into a greased 9 in. 
+pan.
+3. Add filling and sprinkle with remaining crumbs.
+4. Bake in preheated 350°F oven for 30-35 min. Chill before
+serving.
+
+## Rice Krispie Squares
+
+### Emmy Penner {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+• 1/4 cup margarine
+
+• 4 cups marshmallows
+
+• 1 tsp. vanilla
+
+• 5 cups Rice Krispies
+
+\end{multicols}
+
+**Methods**
+
+1. Melt margarine and marshmallows then add vanilla and Rice Krispies. Mix until well coated. 
+2. Grease a 9 x 13 in. pan and pat down evenly, set aside to cool.
+
+\pagebreak
+
+# Pancakes
+
+![](Pancakes.jpg)
+
+\pagebreak
+
+## Pancake Mix
+
+### Alice Baril {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   4 cups flour
+
+•   2 Tbsp. white sugar
+
+•   2 tsp. baking soda
+
+•   1 tsp. salt
+
+•   1/4 cup shortening
+
+•   1¼ cup buttermilk
+
+•   1 beaten egg
+
+\end{multicols}
+
+**Methods**
+
+1.  Mix all well.
+2.  Drop 1/4 cup batter on a buttered or oiled pan on low heat.
+3.  Cook one side until bottom is golden brown; flip.
+4.  Continue cooking until the other side is golden brown.
+
+## Lignt 'N Fluffy Pancakes
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   1 egg
+
+•   4 tsp. oil
+
+•   1 cup milk
+
+•   1 Tbsp. baking powder
+
+•   1 cup flour
+
+•   1 tsp. salt
+
+•   2 tsp. sugar
+
+\end{multicols}
+
+**Methods**
+
+1.  Beat egg. Add milk and oil and beat again.
+2.  Add dry ingredients and mix. Clumps are OK.
+3.  Fry on low heat until just golden brown.
+
+\pagebreak
+
+## Apple Pancakes
+
+### Winnipeg Free Press {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+•   2 Tbsp. butter
+
+•   2 Tbsp. brown sugar
+
+•   1/4 tsp. cinnamon
+
+•   1 apple, thinly sliced
+
+•   2 eggs
+
+•   1/2 cup milk
+
+•   1/2 cup white flour
+
+•   1/4 tsp. salt
+
+\end{multicols}
+
+**Methods**
+
+1.  Melt butter in glass pie plate and brush sides. Sprinkle brown sugar and cinnamon evenly over butter. Arrange apple slices over sugar.
+2.  Mix together remaining ingredients. Pour batter over apple and bake at (350°F in the middle oven) for 25 to 30 min. or until puffy and golden brown.
+3.  Immediately loosen edge of pancake and turn upside down on the plate.
+
+## Icelandic pancakes
+
+### Winnipeg Free Press {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{2}
+
+•   2 eggs
+
+•   1 Tbsp. white sugar
+
+•   1/4 tsp. salt
+
+•   1/2 tsp. vanilla
+
+•   1/2 tsp. baking soda
+
+•   1 tsp. baking powder
+
+•   1/2 cup sour cream or buttermilk
+
+•   1½ cups white flour
+
+•   2 cups milk
+
+•   brown sugar
+
+   cinnamon
+
+\end{multicols}
+
+**Methods**
+
+Beat eggs, add sugar, salt, and vanilla. Dissolve soda in a small amount of hot water, add to eggs and mix. Mix flour with baking powder. Mix flour alternatively with the sour cream or buttermilk into egg mixture. Gradually stir in milk. Fry as for crêpes. Sprinkle with brown sugar and cinnamon.
+
+To make crêpes: use a non-stick frying pan. Pan should be hot. Rub bottom of pan with butter wrapped in a small piece of cloth. Lift hot pan off heat while you pour in 1/4 cup of batter. Place back on heat as quickly as possible. cook until golden brown, then turn to cook the other side. Place on a flat plate.
+
+\pagebreak
+
+## French Crêpes
+
+### Lydia Schalin {.unlisted .unnumbered}
+
+**Ingredients**
+
+\begin{multicols}{3}
+
+• 2 eggs 
+
+• 1 tsp. salt
+
+• 1½ cup water 
+
+• 1½ cup milk
+
+• 2 cups flour
+
+\end{multicols}
+
+**Methods**
+
+1. Beat until lumps are dissolved.
+2. Put 1 tsp. oil in a hot frying pan and cook on high heat. 
+3. Flip when browned. 
+
+
